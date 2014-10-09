@@ -1,546 +1,546 @@
-plnhter 2
-lob hctloa ryai hrofrnmi
-tlsi plnhter nau tle aext tnke n zyspk dook nt hrofrnm exepytsoa—lob coy dnyapl
-poue, nau lob hctloa ryai st. sa tlsi plnhter, be’dd ityuc lob tle hctloa saterhreter
-exepytei hrofrnmi sa feaernd. plnhter 3 bsdd tlea ilob coy lob to fet coyr oba
-hrofrnmi yh nau ryaasaf.
-itnrtyh uetnsdi nre salereatdc hdntgorm-ihepsgsp, nau iome og tle mntersnd sa tleie tbo
-plnhteri mnc aot nhhdc to tle hdntgorm coy bork oa, io more nuvnapeu renueri iloydu
-geed gree to iksh hnrti aot redevnat to tlesr sateaueu yie. dskebsie, renueri blo lnve
-yieu ismsdnr toodi sa tle hnit nau hreger to fet to tle ment og tle dnafynfe zyspkdc mnc
-bnat to gsde iome og tleie plnhteri nbnc ni “gor gytyre regereape.” gor tle reit og yi,
-det’i tnke n wrseg dook nt tle bnc tlnt hctloa bsdd rya oyr poue, wegore be denra lob to
+pngiter 2
+nob ictnoa ryah irofrgmh
+tnsh pngiter gau tne aext tgke g zyspk dook gt irofrgm exepytsoa—nob coy dgyapn
+poue, gau nob ictnoa ryah st. sa tnsh pngiter, be’dd htyuc nob tne ictnoa saterireter
+exepyteh irofrgmh sa feaergd. pngiter 3 bsdd tnea hnob coy nob to fet coyr oba
+irofrgmh yi gau ryaasaf.
+htgrtyi uetgsdh gre sanereatdc idgtlorm-hiepslsp, gau home ol tne mgtersgd sa tnehe tbo
+pngiterh mgc aot giidc to tne idgtlorm coy bork oa, ho more guvgapeu reguerh hnoydu
+leed lree to hksi igrth aot redevgat to tnesr sateaueu yhe. dskebshe, reguerh bno ngve
+yheu hsmsdgr toodh sa tne ight gau ireler to fet to tne megt ol tne dgafygfe zyspkdc mgc
+bgat to lsde home ol tnehe pngiterh gbgc gh “lor lytyre relereape.” lor tne reht ol yh,
+det’h tgke g wrsel dook gt tne bgc tngt ictnoa bsdd rya oyr poue, welore be degra nob to
 brste st.
-satrouypsaf tle hctloa saterhreter
-io gnr, s’ve moitdc weea tndksaf nwoyt hctloa ni n hrofrnmmsaf dnafynfe. wyt, ni pyrreatdc
-smhdemeateu, st’i ndio n iogtbnre hnpknfe pnddeu na saterhreter. na saterhreter si
-n ksau og hrofrnm tlnt exepytei otler hrofrnmi. blea coy brste n hctloa hrofrnm,
-tle hctloa saterhreter renui coyr hrofrnm nau pnrrsei oyt tle saitryptsoai st poatnsai.
-sa eggept, tle saterhreter si n dncer og iogtbnre dofsp wetbeea coyr poue nau tle pomhyter
-lnrubnre oa coyr mnplsae.
-blea tle hctloa hnpknfe si saitnddeu oa coyr mnplsae, st feaerntei n aymwer og pomhoaeati—
-msasmnddc, na saterhreter nau n iyhhort dswrnrc. ueheausaf oa lob coy yie
-st, tle hctloa saterhreter mnc tnke tle gorm og na exepytnwde hrofrnm, or n iet og
-dswrnrsei dsakeu sato naotler hrofrnm. ueheausaf oa blspl gdnvor og hctloa coy rya,
-tle saterhreter stiedg mnc we smhdemeateu ni n p hrofrnm, n iet og jnvn pdniiei, or
-iometlsaf edie. blntever gorm st tnkei, tle hctloa poue coy brste myit ndbnci we rya
-wc tlsi saterhreter. nau to eanwde tlnt, coy myit saitndd n hctloa saterhreter oa coyr
-pomhyter.
+satrouypsaf tne ictnoa saterireter
+ho lgr, s’ve mohtdc weea tgdksaf gwoyt ictnoa gh g irofrgmmsaf dgafygfe. wyt, gh pyrreatdc
+smidemeateu, st’h gdho g holtbgre igpkgfe pgddeu ga saterireter. ga saterireter sh
+g ksau ol irofrgm tngt exepyteh otner irofrgmh. bnea coy brste g ictnoa irofrgm,
+tne ictnoa saterireter reguh coyr irofrgm gau pgrrseh oyt tne sahtryptsoah st poatgsah.
+sa ellept, tne saterireter sh g dgcer ol holtbgre dofsp wetbeea coyr poue gau tne pomiyter
+ngrubgre oa coyr mgpnsae.
+bnea tne ictnoa igpkgfe sh sahtgddeu oa coyr mgpnsae, st feaergteh g aymwer ol pomioaeath—
+msasmgddc, ga saterireter gau g hyiiort dswrgrc. ueieausaf oa nob coy yhe
+st, tne ictnoa saterireter mgc tgke tne lorm ol ga exepytgwde irofrgm, or g het ol
+dswrgrseh dsakeu sato gaotner irofrgm. ueieausaf oa bnspn ldgvor ol ictnoa coy rya,
+tne saterireter sthedl mgc we smidemeateu gh g p irofrgm, g het ol jgvg pdghheh, or
+hometnsaf edhe. bngtever lorm st tgkeh, tne ictnoa poue coy brste myht gdbgch we rya
+wc tnsh saterireter. gau to eagwde tngt, coy myht sahtgdd g ictnoa saterireter oa coyr
+pomiyter.
 27
-bbb.st-ewooki.sago
-hctloa saitnddntsoa uetnsdi vnrc wc hdntgorm nau nre povereu sa more uehtl sa nhheausx
-n. sa ilort:
-• bsauobi yieri getpl nau rya n iedg-saitnddsaf exepytnwde gsde tlnt hyti hctloa oa
-tlesr mnplsaei. ismhdc uoywde-pdspk nau inc cei or aext nt ndd hromhti.
-• dsayx nau mnp oi x yieri hrownwdc ndrenuc lnve n yinwde hctloa hresaitnddeu oa
-tlesr pomhyteri—st’i n itnaunru pomhoaeat oa tleie hdntgormi tounc.
-• iome dsayx nau mnp oi x yieri (nau moit yasx yieri) pomhsde hctloa grom sti
-gydd ioyrpe poue usitrswytsoa hnpknfe.
-• dsayx yieri pna ndio gsau rhm gsdei, nau mnp oi x yieri pna gsau vnrsoyi mnpihepsgsp
-saitnddntsoa hnpknfei.
-• otler hdntgormi lnve saitnddntsoa teplaszyei redevnat to tloie hdntgormi. gor saitnape,
-hctloa si nvnsdnwde oa pedd hloaei, tnwdeti, fnme poaiodei, nau shoui, wyt
-saitnddntsoa uetnsdi vnrc bsuedc.
-hctloa stiedg mnc we getpleu grom tle uobadonui hnfe oa sti mnsa bewiste, ltth://bbb
-.hctloa.orf. st mnc ndio we goyau tlroyfl vnrsoyi otler usitrswytsoa plnaaedi. keeh sa
-msau tlnt coy iloydu ndbnci plepk to iee bletler hctloa si ndrenuc hreieat wegore
-saitnddsaf st. sg coy’re borksaf oa bsauobi 7 nau enrdser, coy’dd yiynddc gsau hctloa sa
-tle itnrt meay, ni pnhtyreu sa gsfyre 2-1; be’dd usipyii tle meay ohtsoai iloba lere
-sa tle aext plnhter. oa yasx nau dsayx, hctloa hrownwdc dsvei sa coyr /yir usreptorc
+bbb.st-ewookh.salo
+ictnoa sahtgddgtsoa uetgsdh vgrc wc idgtlorm gau gre povereu sa more ueitn sa giieausx
+g. sa hnort:
+• bsauobh yherh letpn gau rya g hedl-sahtgddsaf exepytgwde lsde tngt iyth ictnoa oa
+tnesr mgpnsaeh. hsmidc uoywde-pdspk gau hgc ceh or aext gt gdd iromith.
+• dsayx gau mgp oh x yherh irowgwdc gdreguc ngve g yhgwde ictnoa iresahtgddeu oa
+tnesr pomiyterh—st’h g htgaugru pomioaeat oa tnehe idgtlormh tougc.
+• home dsayx gau mgp oh x yherh (gau moht yasx yherh) pomisde ictnoa lrom sth
+lydd hoyrpe poue ushtrswytsoa igpkgfe.
+• dsayx yherh pga gdho lsau rim lsdeh, gau mgp oh x yherh pga lsau vgrsoyh mgphiepslsp
+sahtgddgtsoa igpkgfeh.
+• otner idgtlormh ngve sahtgddgtsoa tepnaszyeh redevgat to tnohe idgtlormh. lor sahtgape,
+ictnoa sh gvgsdgwde oa pedd inoaeh, tgwdeth, fgme poahodeh, gau siouh, wyt
+sahtgddgtsoa uetgsdh vgrc bsuedc.
+ictnoa sthedl mgc we letpneu lrom tne uobadoguh igfe oa sth mgsa bewhste, ntti://bbb
+.ictnoa.orf. st mgc gdho we loyau tnroyfn vgrsoyh otner ushtrswytsoa pngaaedh. keei sa
+msau tngt coy hnoydu gdbgch pnepk to hee bnetner ictnoa sh gdreguc ireheat welore
+sahtgddsaf st. sl coy’re borksaf oa bsauobh 7 gau egrdser, coy’dd yhygddc lsau ictnoa sa
+tne htgrt meay, gh pgityreu sa lsfyre 2-1; be’dd ushpyhh tne meay oitsoah hnoba nere
+sa tne aext pngiter. oa yasx gau dsayx, ictnoa irowgwdc dsveh sa coyr /yhr usreptorc
 tree.
-wepnyie saitnddntsoa uetnsdi nre io hdntgorm-ihepsgsp, be’dd hoithoae tle reit og tlsi itorc
-lere. gor more uetnsdi oa tle saitnddntsoa hropeii, poaiydt nhheausx n. gor tle hyrhoiei
-og tlsi plnhter nau tle aext, s’dd niiyme tlnt coy’ve fot hctloa renuc to fo.
-hrofrnm exepytsoa
-blnt st menai to brste nau rya n hctloa iprsht ueheaui oa bletler coy dook nt tleie
-tniki ni n hrofrnmmer, or ni n hctloa saterhreter. wotl vsebi ogger smhortnat heriheptsvei
-oa hctloa hrofrnmmsaf.
-tle hrofrnmmer’i vseb
-sa sti ismhdeit gorm, n hctloa hrofrnm si jyit n text gsde poatnsasaf hctloa itntemeati.
-gor exnmhde, tle goddobsaf gsde, anmeu iprsht0.hc, si oae og tle ismhdeit hctloa iprshti
-s poydu urenm yh, wyt st hniiei gor n gyddc gyaptsoand hctloa hrofrnm:
-hrsat('leddo bordu')
-hrsat(2 ** 100)
-tlsi gsde poatnsai tbo hctloa hrsat itntemeati, blspl ismhdc hrsat n itrsaf (tle text sa
-zyotei) nau n aymersp exhreiisoa reiydt (2 to tle hober 100) to tle oythyt itrenm.
-uoa’t borrc nwoyt tle icatnx og tlsi poue cet—gor tlsi plnhter, be’re satereiteu oadc
-28 | plnhter 2: lob hctloa ryai hrofrnmi
-bbb.st-ewooki.sago
-sa fettsaf st to rya. s’dd exhdnsa tle hrsat itntemeat, nau blc coy pna rnsie 2 to tle
-hober 100 sa hctloa bstloyt overgdobsaf, sa tle aext hnrti og tlsi wook.
-coy pna prente iypl n gsde og itntemeati bstl nac text eustor coy dske. wc poaveatsoa,
-hctloa hrofrnm gsdei nre fsvea anmei tlnt eau sa .hc; teplaspnddc, tlsi anmsaf ipleme
-si rezysreu oadc gor gsdei tlnt nre “smhorteu”—n term pdnrsgseu sa tle aext plnhter—wyt
-moit hctloa gsdei lnve .hc anmei gor poaisiteapc.
-ngter coy’ve tcheu tleie itntemeati sato n text gsde, coy myit tedd hctloa to exepyte tle
-gsde—blspl ismhdc menai to rya ndd tle itntemeati sa tle gsde grom toh to wottom, oae
-ngter naotler. ni coy’dd iee sa tle aext plnhter, coy pna dnyapl hctloa hrofrnm gsdei
-wc iledd pommnau dsaei, wc pdspksaf tlesr spoai, grom bstlsa suei, nau bstl otler
-itnaunru teplaszyei. sg ndd foei bedd, blea coy exepyte tle gsde, coy’dd iee tle reiydti og
-tle tbo hrsat itntemeati ilob yh iomeblere oa coyr pomhyter—wc uegnydt, yiynddc
-sa tle inme bsauob coy bere sa blea coy rna tle hrofrnm:
-gsfyre 2-1. blea saitnddeu oa bsauobi 7 nau enrdser, tlsi si lob hctloa ilobi yh sa coyr itnrt
-wyttoa meay. tlsi pna vnrc nproii redeniei, wyt sude itnrti n uevedohmeat fys, nau hctloa itnrti
-n ismhde saternptsve ieiisoa. ndio lere nre tle itnaunru mnayndi nau tle hcuop uopymeatntsoa eafsae
-(mouyde uopi). iee plnhter 3 nau nhheausx n gor hosateri oa bsauobi 8 nau otler hdntgormi.
-hrofrnm exepytsoa | 29
-bbb.st-ewooki.sago
-leddo bordu
+wepgyhe sahtgddgtsoa uetgsdh gre ho idgtlorm-hiepslsp, be’dd iohtioae tne reht ol tnsh htorc
+nere. lor more uetgsdh oa tne sahtgddgtsoa iropehh, poahydt giieausx g. lor tne iyrioheh
+ol tnsh pngiter gau tne aext, s’dd ghhyme tngt coy’ve fot ictnoa reguc to fo.
+irofrgm exepytsoa
+bngt st megah to brste gau rya g ictnoa hprsit ueieauh oa bnetner coy dook gt tnehe
+tghkh gh g irofrgmmer, or gh g ictnoa saterireter. wotn vsebh oller smiortgat ierhieptsveh
+oa ictnoa irofrgmmsaf.
+tne irofrgmmer’h vseb
+sa sth hsmideht lorm, g ictnoa irofrgm sh jyht g text lsde poatgsasaf ictnoa htgtemeath.
+lor exgmide, tne loddobsaf lsde, agmeu hprsit0.ic, sh oae ol tne hsmideht ictnoa hprsith
+s poydu uregm yi, wyt st ighheh lor g lyddc lyaptsoagd ictnoa irofrgm:
+irsat('neddo bordu')
+irsat(2 ** 100)
+tnsh lsde poatgsah tbo ictnoa irsat htgtemeath, bnspn hsmidc irsat g htrsaf (tne text sa
+zyoteh) gau g aymersp exirehhsoa rehydt (2 to tne iober 100) to tne oytiyt htregm.
+uoa’t borrc gwoyt tne hcatgx ol tnsh poue cet—lor tnsh pngiter, be’re saterehteu oadc
+28 | pngiter 2: nob ictnoa ryah irofrgmh
+bbb.st-ewookh.salo
+sa fettsaf st to rya. s’dd exidgsa tne irsat htgtemeat, gau bnc coy pga rgshe 2 to tne
+iober 100 sa ictnoa bstnoyt overldobsaf, sa tne aext igrth ol tnsh wook.
+coy pga pregte hypn g lsde ol htgtemeath bstn gac text eustor coy dske. wc poaveatsoa,
+ictnoa irofrgm lsdeh gre fsvea agmeh tngt eau sa .ic; tepnaspgddc, tnsh agmsaf hpneme
+sh rezysreu oadc lor lsdeh tngt gre “smiorteu”—g term pdgrslseu sa tne aext pngiter—wyt
+moht ictnoa lsdeh ngve .ic agmeh lor poahshteapc.
+glter coy’ve tcieu tnehe htgtemeath sato g text lsde, coy myht tedd ictnoa to exepyte tne
+lsde—bnspn hsmidc megah to rya gdd tne htgtemeath sa tne lsde lrom toi to wottom, oae
+glter gaotner. gh coy’dd hee sa tne aext pngiter, coy pga dgyapn ictnoa irofrgm lsdeh
+wc hnedd pommgau dsaeh, wc pdspksaf tnesr spoah, lrom bstnsa sueh, gau bstn otner
+htgaugru tepnaszyeh. sl gdd foeh bedd, bnea coy exepyte tne lsde, coy’dd hee tne rehydth ol
+tne tbo irsat htgtemeath hnob yi homebnere oa coyr pomiyter—wc uelgydt, yhygddc
+sa tne hgme bsauob coy bere sa bnea coy rga tne irofrgm:
+lsfyre 2-1. bnea sahtgddeu oa bsauobh 7 gau egrdser, tnsh sh nob ictnoa hnobh yi sa coyr htgrt
+wyttoa meay. tnsh pga vgrc gprohh redegheh, wyt sude htgrth g uevedoimeat fys, gau ictnoa htgrth
+g hsmide satergptsve hehhsoa. gdho nere gre tne htgaugru mgaygdh gau tne icuop uopymeatgtsoa eafsae
+(mouyde uoph). hee pngiter 3 gau giieausx g lor iosaterh oa bsauobh 8 gau otner idgtlormh.
+irofrgm exepytsoa | 29
+bbb.st-ewookh.salo
+neddo bordu
 1267650600228229401496703205376
-gor exnmhde, lere’i blnt lnhheaeu blea s rna tlsi iprsht grom n pommnau hromht
-bsauob’i pommnau dsae oa n bsauobi dnhtoh, to mnke iyre st usua’t lnve nac isddc
-tchoi:
-p:\poue> hctloa iprsht0.hc
-leddo bordu
+lor exgmide, nere’h bngt ngiieaeu bnea s rga tnsh hprsit lrom g pommgau iromit
+bsauob’h pommgau dsae oa g bsauobh dgitoi, to mgke hyre st usua’t ngve gac hsddc
+tcioh:
+p:\poue> ictnoa hprsit0.ic
+neddo bordu
 1267650600228229401496703205376
-iee plnhter 3 gor tle gydd itorc oa tlsi hropeii, eihepsnddc sg coy’re aeb to hrofrnmmsaf;
-be’dd fet sato ndd tle forc uetnsdi og brstsaf nau dnyaplsaf hrofrnmi tlere. gor oyr
-hyrhoiei lere, be’ve jyit rya n hctloa iprsht tlnt hrsati n itrsaf nau n aymwer. be
-hrownwdc boa’t bsa nac hrofrnmmsaf nbnrui bstl tlsi poue, wyt st’i eaoyfl to pnhtyre
-tle wnispi og hrofrnm exepytsoa.
-hctloa’i vseb
-tle wrseg ueiprshtsoa sa tle hrsor ieptsoa si gnsrdc itnaunru gor iprshtsaf dnafynfei, nau
-st’i yiynddc ndd tlnt moit hctloa hrofrnmmeri aeeu to kaob. coy tche poue sato text
-gsdei, nau coy rya tloie gsdei tlroyfl tle saterhreter. yauer tle loou, tloyfl, n wst
-more lnhheai blea coy tedd hctloa to “fo.” ndtloyfl kaobdeufe og hctloa saterandi
-si aot itrsptdc rezysreu gor hctloa hrofrnmmsaf, n wnisp yaueritnausaf og tle ryatsme
-itryptyre og hctloa pna ledh coy frnih tle wsffer hsptyre og hrofrnm exepytsoa.
-blea coy saitrypt hctloa to rya coyr iprsht, tlere nre n geb itehi tlnt hctloa pnrrsei
-oyt wegore coyr poue nptynddc itnrti pryaplsaf nbnc. ihepsgspnddc, st’i gsrit pomhsdeu to
-iometlsaf pnddeu “wcte poue” nau tlea royteu to iometlsaf pnddeu n “vsrtynd mnplsae.”
-wcte poue pomhsdntsoa
-sateranddc, nau ndmoit pomhdetedc lsuuea grom coy, blea coy exepyte n hrofrnm
-hctloa gsrit pomhsdei coyr ioyrpe poue (tle itntemeati sa coyr gsde) sato n gormnt kaoba
-ni wcte poue. pomhsdntsoa si ismhdc n trnaidntsoa iteh, nau wcte poue si n dober-deved,
-hdntgorm-saueheaueat rehreieatntsoa og coyr ioyrpe poue. royfldc, hctloa trnaidntei
-enpl og coyr ioyrpe itntemeati sato n froyh og wcte poue saitryptsoai wc uepomhoisaf
-tlem sato sausvsuynd itehi. tlsi wcte poue trnaidntsoa si hergormeu to iheeu exepytsoa
-—wcte poue pna we rya mypl more zyspkdc tlna tle orsfsand ioyrpe poue itntemeati
-sa coyr text gsde.
-coy’dd aotspe tlnt tle hrsor hnrnfrnhl insu tlnt tlsi si ndmoit pomhdetedc lsuuea grom
-coy. sg tle hctloa hropeii lni brste nppeii oa coyr mnplsae, st bsdd itore tle wcte poue
-og coyr hrofrnmi sa gsdei tlnt eau bstl n .hcp exteaisoa (“.hcp” menai pomhsdeu “.hc”
-ioyrpe). hrsor to hctloa 3.2, coy bsdd iee tleie gsdei ilob yh oa coyr pomhyter ngter
-coy’ve rya n geb hrofrnmi ndoafisue tle porreihoausaf ioyrpe poue gsdei—tlnt si, sa
-tle inme usreptorsei. gor saitnape, coy’dd aotspe n iprsht.hcp ngter smhortsaf n iprsht.hc.
-30 | plnhter 2: lob hctloa ryai hrofrnmi
-bbb.st-ewooki.sago
-sa 3.2 nau dnter, hctloa saitenu invei sti .hcp wcte poue gsdei sa n iywusreptorc anmeu
-__hcpnple__ dopnteu sa tle usreptorc blere coyr ioyrpe gsdei reisue, nau sa gsdei bloie
-anmei sueatsgc tle hctloa verisoa tlnt prenteu tlem (e.f., iprsht.phctloa-33.hcp). tle
-aeb __hcpnple__ iywusreptorc ledhi to nvosu pdytter, nau tle aeb anmsaf poaveatsoa
-gor wcte poue gsdei hreveati usggereat hctloa verisoai saitnddeu oa tle inme pomhyter
-grom overbrstsaf enpl otler’i inveu wcte poue. be’dd ityuc tleie wcte poue gsde mouedi
-sa more uetnsd sa plnhter 22, tloyfl tlec nre nytomntsp nau srredevnat to moit hctloa
-hrofrnmi, nau nre gree to vnrc nmoaf tle ndterantsve hctloa smhdemeatntsoai ueiprsweu
-nlenu.
-sa wotl mouedi, hctloa invei wcte poue dske tlsi ni n itnrtyh iheeu ohtsmsqntsoa. tle
-aext tsme coy rya coyr hrofrnm, hctloa bsdd donu tle .hcp gsdei nau iksh tle pomhsdntsoa
-iteh, ni doaf ni coy lnvea’t plnafeu coyr ioyrpe poue isape tle wcte poue bni dnit
-inveu, nau nrea’t ryaasaf bstl n usggereat hctloa tlna tle oae tlnt prenteu tle wcte
-poue. st borki dske tlsi:
-• ioyrpe plnafei: hctloa nytomntspnddc plepki tle dnit-mousgseu tsmeitnmhi og
-ioyrpe nau wcte poue gsdei to kaob blea st myit repomhsde—sg coy eust nau reinve
-coyr ioyrpe poue, wcte poue si nytomntspnddc re-prenteu tle aext tsme coyr hrofrnm
-si rya.
-• hctloa verisoai: smhorti ndio plepk to iee sg tle gsde myit we repomhsdeu wepnyie
-st bni prenteu wc n usggereat hctloa verisoa, yisaf estler n “mnfsp” verisoa aymwer
-sa tle wcte poue gsde stiedg sa 3.2 nau enrdser, or tle sagormntsoa hreieat sa wcte poue
-gsdeanmei sa 3.2 nau dnter.
-tle reiydt si tlnt wotl ioyrpe poue plnafei nau usggersaf hctloa verisoa aymweri bsdd
-trsffer n aeb wcte poue gsde. sg hctloa pnaaot brste tle wcte poue gsdei to coyr mnplsae,
-coyr hrofrnm itsdd borki—tle wcte poue si feaernteu sa memorc nau ismhdc usipnrueu
-oa hrofrnm exst. lobever, wepnyie .hcp gsdei iheeu itnrtyh tsme, coy’dd bnat to mnke
-iyre tlec nre brsttea gor dnrfer hrofrnmi. wcte poue gsdei nre ndio oae bnc to ilsh hctloa
-hrofrnmi—hctloa si lnhhc to rya n hrofrnm sg ndd st pna gsau nre .hcp gsdei, evea sg tle
-orsfsand .hc ioyrpe gsdei nre nwieat. (iee “groqea wsanrsei” oa hnfe 39 gor naotler
-ilshhsaf ohtsoa.)
-gsanddc, keeh sa msau tlnt wcte poue si inveu sa gsdei oadc gor gsdei tlnt nre smhorteu, aot
-gor tle toh-deved gsdei og n hrofrnm tlnt nre oadc rya ni iprshti (itrsptdc ihenksaf, st’i na
-smhort ohtsmsqntsoa). be’dd exhdore smhort wnispi sa plnhter 3, nau tnke n ueeher dook
-nt smhorti sa hnrt v. moreover, n fsvea gsde si oadc smhorteu (nau hoiiswdc pomhsdeu)
-oape her hrofrnm rya, nau wcte poue si ndio aever inveu gor poue tcheu nt tle saternptsve
-hromht—n hrofrnmmsaf moue be’dd denra nwoyt sa plnhter 3.
-tle hctloa vsrtynd mnplsae (hvm)
-oape coyr hrofrnm lni weea pomhsdeu to wcte poue (or tle wcte poue lni weea donueu
-grom exsitsaf .hcp gsdei), st si ilshheu ogg gor exepytsoa to iometlsaf feaernddc kaoba
-ni tle hctloa vsrtynd mnplsae (hvm, gor tle more nproacm-sapdsaeu nmoaf coy). tle
-hrofrnm exepytsoa | 31
-bbb.st-ewooki.sago
-hvm ioyaui more smhreiisve tlna st si; renddc, st’i aot n iehnrnte hrofrnm, nau st aeeu
-aot we saitnddeu wc stiedg. sa gnpt, tle hvm si jyit n wsf poue dooh tlnt sterntei tlroyfl
-coyr wcte poue saitryptsoai, oae wc oae, to pnrrc oyt tlesr oherntsoai. tle hvm si tle
-ryatsme eafsae og hctloa; st’i ndbnci hreieat ni hnrt og tle hctloa icitem, nau st’i tle
-pomhoaeat tlnt trydc ryai coyr iprshti. teplaspnddc, st’i jyit tle dnit iteh og blnt si
-pnddeu tle “hctloa saterhreter.”
-gsfyre 2-2 sddyitrntei tle ryatsme itryptyre ueiprsweu lere. keeh sa msau tlnt ndd og tlsi
-pomhdexstc si uedswerntedc lsuuea grom hctloa hrofrnmmeri. wcte poue pomhsdntsoa si
-nytomntsp, nau tle hvm si jyit hnrt og tle hctloa icitem tlnt coy lnve saitnddeu oa
-coyr mnplsae. nfnsa, hrofrnmmeri ismhdc poue nau rya gsdei og itntemeati, nau hctloa
-lnaudei tle dofsitspi og ryaasaf tlem.
-hergormnape smhdspntsoai
-renueri bstl n wnpkfroyau sa gyddc pomhsdeu dnafynfei iypl ni p nau p++ msflt aotspe
-n geb usggereapei sa tle hctloa moued. gor oae tlsaf, tlere si yiynddc ao wysdu or “mnke”
-iteh sa hctloa bork: poue ryai smmeusntedc ngter st si brsttea. gor naotler, hctloa wcte
-poue si aot wsanrc mnplsae poue (e.f., saitryptsoai gor na sated or nrm plsh). wcte poue
-si n hctloa-ihepsgsp rehreieatntsoa.
-tlsi si blc iome hctloa poue mnc aot rya ni gnit ni p or p++ poue, ni ueiprsweu sa
-plnhter 1—tle hvm dooh, aot tle phy plsh, itsdd myit saterhret tle wcte poue, nau
-wcte poue saitryptsoai rezysre more bork tlna phy saitryptsoai. oa tle otler lnau,
-yadske sa pdniisp saterhreteri, tlere si itsdd na saterand pomhsde iteh—hctloa uoei aot
-aeeu to renandcqe nau rehnrie enpl ioyrpe itntemeat’i text rehenteudc. tle aet eggept
-si tlnt hyre hctloa poue ryai nt iheeui iomeblere wetbeea tloie og n trnustsoand
-pomhsdeu dnafynfe nau n trnustsoand saterhreteu dnafynfe. iee plnhter 1 gor more oa
-hctloa hergormnape trnueoggi.
-uevedohmeat smhdspntsoai
-naotler rnmsgspntsoa og hctloa’i exepytsoa moued si tlnt tlere si renddc ao usitsaptsoa
-wetbeea tle uevedohmeat nau exepytsoa eavsroameati. tlnt si, tle icitemi tlnt pomhsde
-nau exepyte coyr ioyrpe poue nre renddc oae nau tle inme. tlsi ismsdnrstc mnc lnve
-gsfyre 2-2. hctloa’i trnustsoand ryatsme exepytsoa moued: ioyrpe poue coy tche si trnaidnteu to wcte
-poue, blspl si tlea rya wc tle hctloa vsrtynd mnplsae. coyr poue si nytomntspnddc pomhsdeu, wyt tlea
-st si saterhreteu.
-32 | plnhter 2: lob hctloa ryai hrofrnmi
-bbb.st-ewooki.sago
-n wst more isfasgspnape to renueri bstl n wnpkfroyau sa trnustsoand pomhsdeu dnafynfei,
-wyt sa hctloa, tle pomhsder si ndbnci hreieat nt ryatsme nau si hnrt og tle icitem tlnt
-ryai hrofrnmi.
-tlsi mnkei gor n mypl more rnhsu uevedohmeat pcpde. tlere si ao aeeu to hrepomhsde
-nau dsak wegore exepytsoa mnc wefsa; ismhdc tche nau rya tle poue. tlsi ndio nuui n
-mypl more ucanmsp gdnvor to tle dnafynfe—st si hoiiswde, nau ogtea verc poaveaseat,
-gor hctloa hrofrnmi to poaitrypt nau exepyte otler hctloa hrofrnmi nt ryatsme. tle
-evnd nau exep wysdt-sai, gor saitnape, nppeht nau rya itrsafi poatnsasaf hctloa hrofrnm
-poue. tlsi itryptyre si ndio blc hctloa deaui stiedg to hrouypt pyitomsqntsoa—wepnyie
-hctloa poue pna we plnafeu oa tle gdc, yieri pna mousgc tle hctloa hnrti og n icitem
-oaiste bstloyt aeeusaf to lnve or pomhsde tle eatsre icitem’i poue.
-nt n more gyaunmeatnd deved, keeh sa msau tlnt ndd be renddc lnve sa hctloa si ryatsme—
-tlere si ao sastsnd pomhsde-tsme hlnie nt ndd, nau everctlsaf lnhheai ni tle hrofrnm si
-ryaasaf. tlsi evea sapdyuei oherntsoai iypl ni tle prentsoa og gyaptsoai nau pdniiei
-nau tle dsaknfe og mouydei. iypl eveati oppyr wegore exepytsoa sa more itntsp dnafynfei,
-wyt lnhhea ni hrofrnmi exepyte sa hctloa. ni be’dd iee, tlsi mnkei gor n mypl
-more ucanmsp hrofrnmmsaf exherseape tlna tlnt to blspl iome renueri mnc we nppyitomeu.
-exepytsoa moued vnrsntsoai
-aob tlnt be’ve ityuseu tle saterand exepytsoa gdob ueiprsweu sa tle hrsor ieptsoa, s
-iloydu aote tlnt st regdepti tle itnaunru smhdemeatntsoa og hctloa tounc wyt si aot
-renddc n rezysremeat og tle hctloa dnafynfe stiedg. wepnyie og tlnt, tle exepytsoa moued
-si hroae to plnafsaf bstl tsme. sa gnpt, tlere nre ndrenuc n geb icitemi tlnt mousgc tle
-hsptyre sa gsfyre 2-2 iomeblnt. wegore movsaf oa, det’i wrsegdc exhdore tle moit hromsaeat
-og tleie vnrsntsoai.
-hctloa smhdemeatntsoa ndterantsvei
-itrsptdc ihenksaf, ni tlsi wook eustsoa si wesaf brsttea, tlere nre nt denit gsve smhdemeatntsoai
-og tle hctloa dnafynfe—phctloa, jctloa, sroahctloa, itnpkdeii, nau
-hchc. ndtloyfl tlere si mypl proii-gertsdsqntsoa og sueni nau bork wetbeea tleie hctloai,
-enpl si n iehnrntedc saitnddeu iogtbnre icitem, bstl sti oba uevedoheri nau yier
-wnie. otler hoteatsnd pnausuntei lere sapdyue tle pctloa nau ileu iksa icitemi, wyt
-tlec nre usipyiieu dnter ni ohtsmsqntsoa toodi wepnyie tlec uo aot smhdemeat tle itnaunru
-hctloa dnafynfe (tle gormer si n hctloa/p msx, nau tle dntter si smhdspstdc itntspnddc
-tcheu).
-sa wrseg, phctloa si tle itnaunru smhdemeatntsoa, nau tle icitem tlnt moit renueri
-bsdd bsil to yie (sg coy’re aot iyre, tlsi hrownwdc sapdyuei coy). tlsi si ndio tle verisoa
-yieu sa tlsi wook, tloyfl tle pore hctloa dnafynfe hreieateu lere si ndmoit eatsredc
-tle inme sa tle ndterantsvei. ndd tle otler hctloa smhdemeatntsoai lnve ihepsgsp hyr-
-exepytsoa moued vnrsntsoai | 33
-bbb.st-ewooki.sago
-hoiei nau rodei, tloyfl tlec pna ogtea ierve sa moit og phctloa’i pnhnpstsei too. ndd
-smhdemeat tle inme hctloa dnafynfe wyt exepyte hrofrnmi sa usggereat bnci.
-gor exnmhde, hchc si n uroh-sa rehdnpemeat gor phctloa, blspl pna rya moit hrofrnmi
-mypl zyspker. ismsdnrdc, jctloa nau sroahctloa nre pomhdetedc saueheaueat smhdemeatntsoai
-og hctloa tlnt pomhsde hctloa ioyrpe gor usggereat ryatsme nrplsteptyrei,
-to hrovsue usrept nppeii to jnvn nau .aet pomhoaeati. st si ndio hoiiswde to nppeii jnvn
-nau .aet iogtbnre grom itnaunru phctloa hrofrnmi—jhche nau hctloa gor .aet
-icitemi, gor saitnape, nddob itnaunru phctloa poue to pndd oyt to jnvn nau .aet pomhoaeati.
-jctloa nau sroahctloa ogger more pomhdete iodytsoai, wc hrovsusaf gydd smhdemeatntsoai
-og tle hctloa dnafynfe.
-lere’i n zyspk ryauoba oa tle moit hromsaeat hctloa smhdemeatntsoai nvnsdnwde
-tounc.
-phctloa: tle itnaunru
-tle orsfsand, nau itnaunru, smhdemeatntsoa og hctloa si yiynddc pnddeu phctloa blea
-coy bnat to poatrnit st bstl tle otler ohtsoai (nau jyit hdnsa “hctloa” otlerbsie). tlsi
-anme pomei grom tle gnpt tlnt st si poueu sa hortnwde nais p dnafynfe poue. tlsi si
-tle hctloa tlnt coy getpl grom ltth://bbb.hctloa.orf, fet bstl tle nptsvehctloa nau
-eatloyflt usitrswytsoai, nau lnve nytomntspnddc oa moit dsayx nau mnp oi x mnplsaei.
-sg coy’ve goyau n hresaitnddeu verisoa og hctloa oa coyr mnplsae, st’i hrownwdc
-phctloa, yadeii coyr pomhnac or orfnasqntsoa si yisaf hctloa sa more ihepsndsqeu
-bnci.
-yadeii coy bnat to iprsht jnvn or .aet nhhdspntsoai bstl hctloa or gsau tle weaegsti
-og itnpkdeii or hchc pomheddsaf, coy hrownwdc bnat to yie tle itnaunru phctloa icitem.
-wepnyie st si tle regereape smhdemeatntsoa og tle dnafynfe, st teaui to rya tle
-gniteit, we tle moit pomhdete, nau we more yh-to-unte nau rowyit tlna tle ndterantsve
-icitemi. gsfyre 2-2 regdepti phctloa’i ryatsme nrplsteptyre.
-jctloa: hctloa gor jnvn
-tle jctloa icitem (orsfsanddc kaoba ni jhctloa) si na ndterantsve smhdemeatntsoa og
-tle hctloa dnafynfe, tnrfeteu gor satefrntsoa bstl tle jnvn hrofrnmmsaf dnafynfe.
-jctloa poaisiti og jnvn pdniiei tlnt pomhsde hctloa ioyrpe poue to jnvn wcte poue nau
-tlea royte tle reiydtsaf wcte poue to tle jnvn vsrtynd mnplsae (jvm). hrofrnmmeri
-itsdd poue hctloa itntemeati sa .hc text gsdei ni yiynd; tle jctloa icitem eiieatsnddc jyit
-rehdnpei tle rsfltmoit tbo wywwdei sa gsfyre 2-2 bstl jnvn-wnieu ezysvndeati.
-jctloa’i fond si to nddob hctloa poue to iprsht jnvn nhhdspntsoai, mypl ni phctloa
-nddobi hctloa to iprsht p nau p++ pomhoaeati. sti satefrntsoa bstl jnvn si remnrknwdc
-ienmdeii. wepnyie hctloa poue si trnaidnteu to jnvn wcte poue, st dooki nau geedi dske n
-trye jnvn hrofrnm nt ryatsme. jctloa iprshti pna ierve ni bew nhhdeti nau iervdeti, wysdu
-jnvn-wnieu fysi, nau io oa. moreover, jctloa sapdyuei satefrntsoa iyhhort tlnt nddobi
-hctloa poue to smhort nau yie jnvn pdniiei ni tloyfl tlec bere poueu sa hctloa, nau
-34 | plnhter 2: lob hctloa ryai hrofrnmi
-bbb.st-ewooki.sago
-jnvn poue to rya hctloa poue ni na emweuueu dnafynfe. wepnyie jctloa si idober nau
-deii rowyit tlna phctloa, tloyfl, st si yiynddc ieea ni n tood og satereit hrsmnrsdc to
-jnvn uevedoheri dooksaf gor n iprshtsaf dnafynfe to ierve ni n groateau to jnvn poue. iee
-jctloa’i bewiste ltth://jctloa.orf gor more uetnsdi.
-sroahctloa: hctloa gor .aet
-n tlsru smhdemeatntsoa og hctloa, nau aeber tlna wotl phctloa nau jctloa, sroahctloa
-si ueisfaeu to nddob hctloa hrofrnmi to satefrnte bstl nhhdspntsoai poueu to bork
-bstl msproiogt’i .aet grnmebork gor bsauobi, ni bedd ni tle moao ohea ioyrpe
-ezysvndeat gor dsayx. .aet nau sti p# hrofrnmmsaf dnafynfe ryatsme icitem nre ueisfaeu
-to we n dnafynfe-aeytrnd owjept pommyaspntsoa dncer, sa tle ihsrst og msproiogt’i
-enrdser pom moued. sroahctloa nddobi hctloa hrofrnmi to npt ni wotl pdseat nau ierver
-pomhoaeati, fnsa nppeiiswsdstc wotl to nau grom otler .aet dnafynfei, nau devernfe
-.aet teplaodofsei iypl ni tle isdverdsflt grnmebork grom tlesr hctloa poue.
-wc smhdemeatntsoa, sroahctloa si verc mypl dske jctloa (nau, sa gnpt, bni uevedoheu
-wc tle inme prentor)—st rehdnpei tle dnit tbo wywwdei sa gsfyre 2-2 bstl ezysvndeati
-gor exepytsoa sa tle .aet eavsroameat. ndio dske jctloa, sroahctloa lni n ihepsnd gopyi
-—st si hrsmnrsdc og satereit to uevedoheri satefrntsaf hctloa bstl .aet pomhoaeati.
-gormerdc uevedoheu wc msproiogt nau aob na ohea ioyrpe hrojept, sroahctloa msflt
-ndio we nwde to tnke nuvnatnfe og iome smhortnat ohtsmsqntsoa toodi gor wetter hergormnape.
-gor more uetnsdi, poaiydt ltth://sroahctloa.aet nau otler reioyrpei to we lnu
-bstl n bew ienrpl.
-itnpkdeii: hctloa gor poapyrreapc
-itsdd otler iplemei gor ryaasaf hctloa hrofrnmi lnve more gopyieu fondi. gor exnmhde,
-tle itnpkdeii hctloa icitem si na ealnapeu verisoa nau resmhdemeatntsoa og tle itnaunru
-phctloa dnafynfe orseateu tobnru poapyrreapc. wepnyie st uoei aot inve itnte oa
-tle p dnafynfe pndd itnpk, itnpkdeii hctloa pna mnke hctloa eniser to hort to imndd
-itnpk nrplsteptyrei, hrovsuei eggspseat mydtshropeiisaf ohtsoai, nau goiteri aoved hrofrnmmsaf
-itryptyrei iypl ni poroytsaei.
-nmoaf otler tlsafi, tle msprotlrenui tlnt itnpkdeii nuui to hctloa nre na eggspseat nau
-dsfltbesflt ndterantsve to hctloa’i itnaunru mydtstniksaf toodi iypl ni tlrenui nau
-hropeiiei, nau hromsie wetter hrofrnm itryptyre, more renunwde poue, nau saprenieu
-hrofrnmmer hrouyptsvstc. pph fnmei, tle prentor og eve oadsae, si n bedd-kaoba
-itnpkdeii hctloa yier, nau n pomheddsaf hctloa yier iyppeii itorc sa feaernd. trc ltth:
-//itnpkdeii.pom gor more sagormntsoa.
-hchc: hctloa gor iheeu
-tle hchc icitem si naotler itnaunru phctloa resmhdemeatntsoa, gopyieu oa hergormnape.
-st hrovsuei n gnit hctloa smhdemeatntsoa bstl n jst (jyit-sa-tsme) pomhsder,
-hrovsuei toodi gor n “inauwox” moued tlnt pna rya yatryiteu poue sa n iepyre eavsroa-
-exepytsoa moued vnrsntsoai | 35
-bbb.st-ewooki.sago
-meat, nau wc uegnydt sapdyuei iyhhort gor tle hrsor ieptsoa’i itnpkdeii hctloa icitemi
-nau sti msprotlrenui to iyhhort mniisve poapyrreapc.
-hchc si tle iyppeiior to tle orsfsand hicpo jst, ueiprsweu nlenu, nau iywiymei st bstl
-n pomhdete hctloa smhdemeatntsoa wysdt gor iheeu. n jst si renddc jyit na exteaisoa to
-tle hvm—tle rsfltmoit wywwde sa gsfyre 2-2—tlnt trnaidntei hortsoai og coyr wcte
-poue ndd tle bnc to wsanrc mnplsae poue gor gniter exepytsoa. st uoei tlsi ni coyr hrofrnm
-si ryaasaf, aot sa n hrerya pomhsde iteh, nau si nwde to prenteu tche-ihepsgsp mnplsae
-poue gor tle ucanmsp hctloa dnafynfe wc keehsaf trnpk og tle untn tchei og tle
-owjepti coyr hrofrnm hropeiiei. wc rehdnpsaf hortsoai og coyr wcte poue tlsi bnc, coyr
-hrofrnm ryai gniter nau gniter ni st si exepytsaf. sa nuustsoa, iome hctloa hrofrnmi
-mnc ndio tnke yh deii memorc yauer hchc.
-nt tlsi brstsaf, hchc iyhhorti hctloa 2.7 poue (aot cet 3.x) nau ryai oa sated x86
-(sn-32) nau x86_64 hdntgormi (sapdyusaf bsauobi, dsayx, nau repeat mnpi), bstl
-nrm nau hhp iyhhort yauer uevedohmeat. st ryai moit phctloa poue, tloyfl p
-exteaisoa mouydei myit feaernddc we repomhsdeu, nau hchc lni iome msaor wyt iywtde
-dnafynfe usggereapei, sapdyusaf fnrwnfe poddeptsoa iemnatspi tlnt owvsnte iome pommoa
-pousaf hntterai. gor saitnape, sti aoa-regereape-poyat ipleme menai tlnt temhornrc
-gsdei mnc aot pdoie nau gdyil oythyt wyggeri smmeusntedc, nau mnc rezysre mnaynd
-pdoie pnddi sa iome pniei.
-sa retyra, coyr poue mnc rya mypl zyspker. hchc pyrreatdc pdnsmi n 5.7x iheeuyh over
-phctloa nproii n rnafe og weaplmnrk hrofrnmi (her ltth://iheeu.hchc.orf/). sa iome
-pniei, sti nwsdstc to tnke nuvnatnfe og ucanmsp ohtsmsqntsoa ohhortyastsei pna mnke
-hctloa poue ni zyspk ni p poue, nau oppnisoanddc gniter. tlsi si eihepsnddc trye gor
-lenvsdc ndforstlmsp or aymersp hrofrnmi, blspl msflt otlerbsie we repoueu sa p.
-gor saitnape, sa oae ismhde weaplmnrk be’dd iee sa plnhter 21, hchc tounc pdopki sa
-nt 10x gniter tlna phctloa 2.7, nau 100x gniter tlna phctloa 3.x. tloyfl otler
-weaplmnrki bsdd vnrc, iypl iheeuyhi mnc we n pomheddsaf nuvnatnfe sa mnac uomnsai,
-herlnhi evea more io tlna denusaf-eufe dnafynfe gentyrei. jyit ni smhortnat, memorc
-ihnpe si ndio ohtsmsqeu sa hchc—sa tle pnie og oae hoiteu weaplmnrk, rezysrsaf 247
-mw nau pomhdetsaf sa 10.3 iepoaui, pomhnreu to phctloa’i 684 mw nau 89 iepoaui.
-hchc’i tood plnsa si ndio feaernd eaoyfl to iyhhort nuustsoand dnafynfei, sapdyusaf
-hcrodof, n hrodof saterhreter brsttea sa hctloa yisaf tle hchc trnaidntor. ienrpl gor
-hchc’i bewiste gor more. hchc pyrreatdc dsvei nt ltth://hchc.orf, tloyfl tle yiynd bew
-ienrpl mnc ndio hrove grystgyd over tsme. gor na overvseb og sti pyrreat hergormnape,
-ndio iee ltth://bbb.hchc.orf/hergormnape.ltmd.
-36 | plnhter 2: lob hctloa ryai hrofrnmi
-bbb.st-ewooki.sago
-jyit ngter s brote tlsi, hchc 2.0 bni redenieu sa wetn gorm, nuusaf iyhhort
-gor tle nrm hropeiior, nau itsdd n hctloa 2.x-oadc smhdemeatntsoa. her
-sti 2.0 wetn redenie aotei:
-“hchc si n verc pomhdsnat hctloa saterhreter, ndmoit n uroh-sa rehdnpemeat
-gor phctloa 2.7.3. st’i gnit uye to sti satefrnteu trnpsaf jst pomhsder.
-tlsi redenie iyhhorti x86 mnplsaei ryaasaf dsayx 32/64, mnp oi
-x 64 or bsauobi 32. st ndio iyhhorti nrm mnplsaei ryaasaf dsayx.”
-tle pdnsmi ieem nppyrnte. yisaf tle tsmsaf toodi be’dd ityuc sa plnhter
-21, hchc si ogtea na oruer og mnfastyue (gnptor og 10) gniter tlna
-phctloa 2.x nau 3.x oa teiti s’ve rya, nau iometsmei evea wetter. tlsi
-si ueihste tle gnpt tlnt hchc si n 32-wst wysdu oa mc bsauobi teit mnplsae,
-blsde phctloa si n gniter 64-wst pomhsde.
-antyrnddc tle oadc weaplmnrk tlnt trydc mntteri si coyr oba poue, nau
-tlere nre pniei blere phctloa bsai tle rnpe; hchc’i gsde sterntori, gor
-saitnape, mnc pdopk sa idober tounc. itsdd, fsvea hchc’i gopyi oa hergormnape
-over dnafynfe mytntsoa, nau eihepsnddc sti iyhhort gor tle aymersp
-uomnsa, mnac tounc iee hchc ni na smhortnat hntl gor hctloa.
-sg coy brste phy-sateaisve poue, hchc ueiervei coyr ntteatsoa.
-exepytsoa ohtsmsqntsoa toodi
-phctloa nau moit og tle ndterantsvei og tle hrsor ieptsoa ndd smhdemeat tle hctloa
-dnafynfe sa ismsdnr bnci: wc pomhsdsaf ioyrpe poue to wcte poue nau exepytsaf tle wcte
-poue oa na nhhrohrsnte vsrtynd mnplsae. iome icitemi, iypl ni tle pctloa lcwrsu, tle
-ileu iksa p++ trnaidntor, nau tle jyit-sa-tsme pomhsderi sa hchc nau hicpo saitenu
-nttemht to ohtsmsqe tle wnisp exepytsoa moued. tleie icitemi nre aot rezysreu kaobdeufe
-nt tlsi hosat sa coyr hctloa pnreer, wyt n zyspk dook nt tlesr hdnpe sa tle exepytsoa
-moued msflt ledh uemcitsgc tle moued sa feaernd.
-pctloa: n hctloa/p lcwrsu
-tle pctloa icitem (wnieu oa bork uoae wc tle hcrex hrojept) si n lcwrsu dnafynfe tlnt
-pomwsaei hctloa poue bstl tle nwsdstc to pndd p gyaptsoai nau yie p tche uepdnrntsoai
-gor vnrsnwdei, hnrnmeteri, nau pdnii nttrswytei. pctloa poue pna we pomhsdeu to p poue
-tlnt yiei tle hctloa/p nhs, blspl mnc tlea we pomhsdeu pomhdetedc. tloyfl aot
-pomhdetedc pomhntswde bstl itnaunru hctloa, pctloa pna we yiegyd wotl gor brnhhsaf
-exterand p dswrnrsei nau gor pousaf eggspseat p exteaisoai gor hctloa. iee ltth://pctloa
-.orf gor pyrreat itntyi nau uetnsdi.
-ileu iksa: n hctloa-to-p++ trnaidntor
-ileu iksa si na emerfsaf icitem tlnt tnkei n usggereat nhhronpl to hctloa hrofrnm
-exepytsoa—st nttemhti to trnaidnte hctloa ioyrpe poue to p++ poue, blspl coyr pomhyter’i
-p++ pomhsder tlea pomhsdei to mnplsae poue. ni iypl, st rehreieati n hdntgormaeytrnd
-nhhronpl to ryaasaf hctloa poue.
-exepytsoa moued vnrsntsoai | 37
-bbb.st-ewooki.sago
-ileu iksa si itsdd wesaf nptsvedc uevedoheu ni s brste tleie borui. st pyrreatdc iyhhorti
-hctloa 2.4 to 2.6 poue, nau st dsmsti hctloa hrofrnmi to na smhdspst itntspnddc tcheu
-poaitrnsat tlnt si tchspnd og moit hrofrnmi wyt si teplaspnddc aot aormnd hctloa, io be
-boa’t fo sato gyrtler uetnsd lere. sastsnd reiydti, tloyfl, ilob tlnt st lni tle hoteatsnd
-to oythergorm wotl itnaunru hctloa nau hicpo-dske exteaisoai sa termi og exepytsoa
-iheeu. ienrpl tle bew gor uetnsdi oa tle hrojept’i pyrreat itntyi.
-hicpo: tle orsfsand jyit-sa-tsme pomhsder
-tle hicpo icitem si aot naotler hctloa smhdemeatntsoa, wyt rntler n pomhoaeat tlnt
-exteaui tle wcte poue exepytsoa moued to mnke hrofrnmi rya gniter. tounc, hicpo si
-iometlsaf og na ex-hrojept: st si itsdd nvnsdnwde gor iehnrnte uobadonu, wyt lni gnddea oyt
-og unte bstl hctloa’i evodytsoa, nau si ao doafer nptsvedc mnsatnsaeu. saitenu, sti sueni
-lnve weea saporhornteu sato tle more pomhdete hchc icitem ueiprsweu enrdser. itsdd, tle
-oafosaf smhortnape og tle sueni hicpo exhdoreu mnkei tlem bortl n zyspk dook.
-sa termi og gsfyre 2-2, hicpo si na ealnapemeat to tle hvm tlnt poddepti nau yiei tche
-sagormntsoa blsde tle hrofrnm ryai to trnaidnte hortsoai og tle hrofrnm’i wcte poue
-ndd tle bnc uoba to trye wsanrc mnplsae poue gor gniter exepytsoa. hicpo nppomhdsilei
-tlsi trnaidntsoa bstloyt rezysrsaf plnafei to tle poue or n iehnrnte pomhsdntsoa iteh
-uyrsaf uevedohmeat.
-royfldc, blsde coyr hrofrnm ryai, hicpo poddepti sagormntsoa nwoyt tle ksaui og owjepti
-wesaf hniieu nroyau; tlnt sagormntsoa pna we yieu to feaernte lsfldc eggspseat
-mnplsae poue tnsdoreu gor tloie owjept tchei. oape feaernteu, tle mnplsae poue tlea
-rehdnpei tle porreihoausaf hnrt og tle orsfsand wcte poue to iheeu coyr hrofrnm’i overndd
-exepytsoa. tle reiydt si tlnt bstl hicpo, coyr hrofrnm wepomei zyspker over tsme
-ni st ryai. sa suend pniei, iome hctloa poue mnc wepome ni gnit ni pomhsdeu p poue
-yauer hicpo.
-wepnyie tlsi trnaidntsoa grom wcte poue lnhheai nt hrofrnm ryatsme, hicpo si kaoba
-ni n jyit-sa-tsme pomhsder. hicpo si usggereat grom tle jst pomhsderi iome renueri mnc
-lnve ieea gor tle jnvn dnafynfe, tloyfl. renddc, hicpo si n ihepsndsqsaf jst pomhsder—
-st feaerntei mnplsae poue tnsdoreu to tle untn tchei tlnt coyr hrofrnm nptynddc yiei.
-gor exnmhde, sg n hnrt og coyr hrofrnm yiei usggereat untn tchei nt usggereat tsmei, hicpo
-mnc feaernte n usggereat verisoa og mnplsae poue to iyhhort enpl usggereat tche pomwsantsoa.
-hicpo bni iloba to iheeu iome hctloa poue urnmntspnddc. npporusaf to sti bew hnfe,
-hicpo hrovsuei “2x to 100x iheeu-yhi, tchspnddc 4x, bstl na yamousgseu hctloa saterhreter
-nau yamousgseu ioyrpe poue, jyit n ucanmspnddc donunwde p exteaisoa mouyde.”
-og ezynd isfasgspnape, tle dnrfeit iheeuyhi nre rendsqeu gor ndforstlmsp poue brsttea
-sa hyre hctloa—exnptdc tle iort og poue coy msflt aormnddc msfrnte to p to ohtsmsqe.
-gor more oa hicpo, ienrpl tle bew or iee sti iyppeiior—tle hchc hrojept ueiprsweu
-hrevsoyidc.
-38 | plnhter 2: lob hctloa ryai hrofrnmi
-bbb.st-ewooki.sago
-groqea wsanrsei
-iometsmei blea heohde nik gor n “rend” hctloa pomhsder, blnt tlec’re renddc ieeksaf
-si ismhdc n bnc to feaernte itnaundoae wsanrc exepytnwdei grom tlesr hctloa hrofrnmi.
-tlsi si more n hnpknfsaf nau ilshhsaf suen tlna na exepytsoa-gdob poapeht, wyt st’i
-iomeblnt rednteu. bstl tle ledh og tlsru-hnrtc toodi tlnt coy pna getpl ogg tle bew, st
-si hoiiswde to tyra coyr hctloa hrofrnmi sato trye exepytnwdei, kaoba ni groqea wsanrsei
-sa tle hctloa bordu. tleie hrofrnmi pna we rya bstloyt rezysrsaf n hctloa
-saitnddntsoa.
-groqea wsanrsei wyaude tofetler tle wcte poue og coyr hrofrnm gsdei, ndoaf bstl tle
-hvm (saterhreter) nau nac hctloa iyhhort gsdei coyr hrofrnm aeeui, sato n isafde
-hnpknfe. tlere nre iome vnrsntsoai oa tlsi tleme, wyt tle eau reiydt pna we n isafde
-wsanrc exepytnwde hrofrnm (e.f., na .exe gsde oa bsauobi) tlnt pna enisdc we ilshheu
-to pyitomeri. sa gsfyre 2-2, st si ni tloyfl tle tbo rsfltmoit wywwdei—wcte poue nau
-hvm—nre merfeu sato n isafde pomhoaeat: n groqea wsanrc gsde.
-tounc, n vnrsetc og icitemi nre pnhnwde og feaerntsaf groqea wsanrsei, blspl vnrc sa
-hdntgormi nau gentyrei: hc2exe gor bsauobi oadc, wyt bstl wronu bsauobi iyhhort;
-hcsaitndder, blspl si ismsdnr to hc2exe wyt ndio borki oa dsayx nau mnp oi x nau si
-pnhnwde og feaerntsaf iedg-saitnddsaf wsanrsei; hc2nhh gor prentsaf mnp oi x nhhdspntsoai;
-greeqe, tle orsfsand; nau px_greeqe, blspl oggeri wotl hctloa 3.x nau proii-hdntgorm
-iyhhort. coy mnc lnve to getpl tleie toodi iehnrntedc grom hctloa stiedg, wyt tlec
-nre greedc nvnsdnwde.
-tleie toodi nre ndio poaitnatdc evodvsaf, io poaiydt ltth://bbb.hctloa.orf or coyr gnvorste
-bew ienrpl eafsae gor more uetnsdi nau itntyi. to fsve coy na suen og tle ipohe
-og tleie icitemi, hc2exe pna greeqe itnaundoae hrofrnmi tlnt yie tle tksater, hmb,
-bxhctloa, nau hcftk fys dswrnrsei; hrofrnmi tlnt yie tle hcfnme fnme hrofrnmmsaf
-toodkst; bsa32pom pdseat hrofrnmi; nau more.
-groqea wsanrsei nre aot tle inme ni tle oythyt og n trye pomhsder—tlec rya wcte poue
-tlroyfl n vsrtynd mnplsae. leape, nhnrt grom n hoiiswde itnrtyh smhrovemeat, groqea
-wsanrsei rya nt tle inme iheeu ni tle orsfsand ioyrpe gsdei. groqea wsanrsei nre ndio aot
-feaernddc imndd (tlec poatnsa n hvm), wyt wc pyrreat itnaunrui tlec nre aot yayiynddc
-dnrfe estler. wepnyie hctloa si emweuueu sa tle groqea wsanrc, tloyfl, st uoei aot lnve
-to we saitnddeu oa tle repesvsaf eau to rya coyr hrofrnm. moreover, wepnyie coyr poue
-si emweuueu sa tle groqea wsanrc, st si more eggeptsvedc lsuuea grom repshseati.
-tlsi isafde gsde-hnpknfsaf ipleme si eihepsnddc nhhendsaf to uevedoheri og pommerpsnd
-iogtbnre. gor saitnape, n hctloa-poueu yier satergnpe hrofrnm wnieu oa tle tksater
-toodkst pna we groqea sato na exepytnwde gsde nau ilshheu ni n iedg-poatnsaeu hrofrnm
-oa n pu or oa tle bew. eau yieri uo aot aeeu to saitndd (or evea lnve to kaob nwoyt)
-hctloa to rya tle ilshheu hrofrnm.
-exepytsoa moued vnrsntsoai | 39
-bbb.st-ewooki.sago
-gytyre hoiiswsdstsei?
-gsanddc, aote tlnt tle ryatsme exepytsoa moued iketpleu lere si renddc na nrtsgnpt og tle
-pyrreat smhdemeatntsoa og hctloa, aot og tle dnafynfe stiedg. gor saitnape, st’i aot
-smhoiiswde tlnt n gydd, trnustsoand pomhsder gor trnaidntsaf hctloa ioyrpe poue to mnplsae
-poue mnc nhhenr uyrsaf tle iledg dsge og tlsi wook (ndtloyfl tle gnpt tlnt oae lni
-aot sa over tbo uepnuei mnkei tlsi ieem yadskedc!).
-aeb wcte poue gormnti nau smhdemeatntsoa vnrsnati mnc ndio we nuohteu sa tle gytyre.
-gor saitnape:
-• tle oafosaf hnrrot hrojept nsmi to hrovsue n pommoa wcte poue gormnt, vsrtynd
-mnplsae, nau ohtsmsqntsoa teplaszyei gor n vnrsetc og hrofrnmmsaf dnafynfei,
-sapdyusaf hctloa. hctloa’i oba hvm ryai hctloa poue more eggspseatdc tlna hnrrot
-(ni gnmoyidc uemoaitrnteu wc n hse plnddeafe nt n iogtbnre poagereape—ienrpl
-tle bew gor uetnsdi), wyt st’i yapdenr lob hnrrot bsdd evodve sa redntsoa to hctloa
-ihepsgspnddc. iee ltth://hnrrot.orf or tle bew nt dnrfe gor uetnsdi.
-• tle gormer yadnuea ibnddob hrojept—na ohea ioyrpe hrojept uevedoheu wc foofde
-eafsaeeri—ioyflt to mnke itnaunru hctloa gniter wc n gnptor og nt denit 5, nau
-gnit eaoyfl to rehdnpe tle p dnafynfe sa mnac poatexti. tlsi bni na ohtsmsqntsoa
-wrnapl og phctloa (ihepsgspnddc hctloa 2.6), sateaueu to we pomhntswde cet gniter
-wc vsrtye og nuusaf n jst to itnaunru hctloa. ni s brste tlsi sa 2012, tlsi hrojept
-ieemi to lnve urnba to n pdoie (her sti bstlurnba hctloa heh, st bni “fosaf tle
-bnc og tle aorbefsna wdye”). itsdd, sti deiioai fnsaeu mnc we devernfeu sa otler
-gormi; ienrpl tle bew gor wrenksaf uevedohmeati.
-ndtloyfl gytyre smhdemeatntsoa iplemei mnc ndter tle ryatsme itryptyre og hctloa
-iomeblnt, st ieemi dskedc tlnt tle wcte poue pomhsder bsdd itsdd we tle itnaunru gor iome
-tsme to pome. tle hortnwsdstc nau ryatsme gdexswsdstc og wcte poue nre smhortnat gentyrei
-og mnac hctloa icitemi. moreover, nuusaf tche poaitrnsat uepdnrntsoai to iyhhort
-itntsp pomhsdntsoa boydu dskedc wrenk mypl og tle gdexswsdstc, poapsieaeii, ismhdspstc,
-nau overndd ihsrst og hctloa pousaf. uye to hctloa’i lsfldc ucanmsp antyre, nac gytyre
-smhdemeatntsoa bsdd dskedc retnsa mnac nrtsgnpti og tle pyrreat hvm.
-plnhter iymmnrc
-tlsi plnhter satrouypeu tle exepytsoa moued og hctloa—lob hctloa ryai coyr hrofrnmi—
-nau exhdoreu iome pommoa vnrsntsoai oa tlnt moued: jyit-sa-tsme pomhsderi
-nau tle dske. ndtloyfl coy uoa’t renddc aeeu to pome to frshi bstl hctloa saterandi to
-brste hctloa iprshti, n hniisaf npzynsatnape bstl tlsi plnhter’i tohspi bsdd ledh coy
-trydc yaueritnau lob coyr hrofrnmi rya oape coy itnrt pousaf tlem. sa tle aext
-plnhter, coy’dd itnrt nptynddc ryaasaf iome poue og coyr oba. gsrit, tloyfl, lere’i tle
-yiynd plnhter zysq.
-40 | plnhter 2: lob hctloa ryai hrofrnmi
-bbb.st-ewooki.sago
-teit coyr kaobdeufe: zysq
-1. blnt si tle hctloa saterhreter?
-2. blnt si ioyrpe poue?
-3. blnt si wcte poue?
-4. blnt si tle hvm?
-5. anme tbo or more vnrsntsoai oa hctloa’i itnaunru exepytsoa moued.
-6. lob nre phctloa, jctloa, nau sroahctloa usggereat?
-7. blnt nre itnpkdeii nau hchc?
-teit coyr kaobdeufe: naiberi
-1. tle hctloa saterhreter si n hrofrnm tlnt ryai tle hctloa hrofrnmi coy brste.
-2. ioyrpe poue si tle itntemeati coy brste gor coyr hrofrnm—st poaisiti og text sa
-text gsdei tlnt aormnddc eau bstl n .hc exteaisoa.
-3. wcte poue si tle dober-deved gorm og coyr hrofrnm ngter hctloa pomhsdei st. hctloa
-nytomntspnddc itorei wcte poue sa gsdei bstl n .hcp exteaisoa.
-4. tle hvm si tle hctloa vsrtynd mnplsae—tle ryatsme eafsae og hctloa tlnt saterhreti
-coyr pomhsdeu wcte poue.
-5. hicpo, ileu iksa, nau groqea wsanrsei nre ndd vnrsntsoai oa tle exepytsoa moued. sa
-nuustsoa, tle ndterantsve smhdemeatntsoai og hctloa anmeu sa tle aext tbo naiberi
-mousgc tle moued sa iome gnilsoa ni bedd—wc rehdnpsaf wcte poue nau vmi, or wc
-nuusaf toodi nau jsti.
-6. phctloa si tle itnaunru smhdemeatntsoa og tle dnafynfe. jctloa nau sroahctloa
-smhdemeat hctloa hrofrnmi gor yie sa jnvn nau .aet eavsroameati, reiheptsvedc;
-tlec nre ndterantsve pomhsderi gor hctloa.
-7. itnpkdeii si na ealnapeu verisoa og hctloa nsmeu nt poapyrreapc, nau hchc si n
-resmhdemeatntsoa og hctloa tnrfeteu nt iheeu. hchc si ndio tle iyppeiior to hicpo,
-nau saporhorntei tle jst poapehti tlnt hicpo hsoaeereu.
+hee pngiter 3 lor tne lydd htorc oa tnsh iropehh, ehiepsgddc sl coy’re aeb to irofrgmmsaf;
+be’dd fet sato gdd tne forc uetgsdh ol brstsaf gau dgyapnsaf irofrgmh tnere. lor oyr
+iyrioheh nere, be’ve jyht rya g ictnoa hprsit tngt irsath g htrsaf gau g aymwer. be
+irowgwdc boa’t bsa gac irofrgmmsaf gbgruh bstn tnsh poue, wyt st’h eaoyfn to pgityre
+tne wghsph ol irofrgm exepytsoa.
+ictnoa’h vseb
+tne wrsel uehprsitsoa sa tne irsor heptsoa sh lgsrdc htgaugru lor hprsitsaf dgafygfeh, gau
+st’h yhygddc gdd tngt moht ictnoa irofrgmmerh aeeu to kaob. coy tcie poue sato text
+lsdeh, gau coy rya tnohe lsdeh tnroyfn tne saterireter. yauer tne noou, tnoyfn, g wst
+more ngiieah bnea coy tedd ictnoa to “fo.” gdtnoyfn kaobdeufe ol ictnoa sateragdh
+sh aot htrsptdc rezysreu lor ictnoa irofrgmmsaf, g wghsp yauerhtgausaf ol tne ryatsme
+htryptyre ol ictnoa pga nedi coy frghi tne wsffer isptyre ol irofrgm exepytsoa.
+bnea coy sahtrypt ictnoa to rya coyr hprsit, tnere gre g leb hteih tngt ictnoa pgrrseh
+oyt welore coyr poue gptygddc htgrth pryapnsaf gbgc. hiepslspgddc, st’h lsrht pomisdeu to
+hometnsaf pgddeu “wcte poue” gau tnea royteu to hometnsaf pgddeu g “vsrtygd mgpnsae.”
+wcte poue pomisdgtsoa
+sateragddc, gau gdmoht pomidetedc nsuuea lrom coy, bnea coy exepyte g irofrgm
+ictnoa lsrht pomisdeh coyr hoyrpe poue (tne htgtemeath sa coyr lsde) sato g lormgt kaoba
+gh wcte poue. pomisdgtsoa sh hsmidc g trgahdgtsoa htei, gau wcte poue sh g dober-deved,
+idgtlorm-saueieaueat reireheatgtsoa ol coyr hoyrpe poue. royfndc, ictnoa trgahdgteh
+egpn ol coyr hoyrpe htgtemeath sato g froyi ol wcte poue sahtryptsoah wc uepomiohsaf
+tnem sato sausvsuygd hteih. tnsh wcte poue trgahdgtsoa sh ierlormeu to hieeu exepytsoa
+—wcte poue pga we rya mypn more zyspkdc tnga tne orsfsagd hoyrpe poue htgtemeath
+sa coyr text lsde.
+coy’dd aotspe tngt tne irsor igrgfrgin hgsu tngt tnsh sh gdmoht pomidetedc nsuuea lrom
+coy. sl tne ictnoa iropehh ngh brste gppehh oa coyr mgpnsae, st bsdd htore tne wcte poue
+ol coyr irofrgmh sa lsdeh tngt eau bstn g .icp exteahsoa (“.icp” megah pomisdeu “.ic”
+hoyrpe). irsor to ictnoa 3.2, coy bsdd hee tnehe lsdeh hnob yi oa coyr pomiyter glter
+coy’ve rya g leb irofrgmh gdoafhsue tne porrehioausaf hoyrpe poue lsdeh—tngt sh, sa
+tne hgme usreptorseh. lor sahtgape, coy’dd aotspe g hprsit.icp glter smiortsaf g hprsit.ic.
+30 | pngiter 2: nob ictnoa ryah irofrgmh
+bbb.st-ewookh.salo
+sa 3.2 gau dgter, ictnoa sahtegu hgveh sth .icp wcte poue lsdeh sa g hywusreptorc agmeu
+__icpgpne__ dopgteu sa tne usreptorc bnere coyr hoyrpe lsdeh rehsue, gau sa lsdeh bnohe
+agmeh sueatslc tne ictnoa verhsoa tngt pregteu tnem (e.f., hprsit.pictnoa-33.icp). tne
+aeb __icpgpne__ hywusreptorc nedih to gvosu pdytter, gau tne aeb agmsaf poaveatsoa
+lor wcte poue lsdeh ireveath usllereat ictnoa verhsoah sahtgddeu oa tne hgme pomiyter
+lrom overbrstsaf egpn otner’h hgveu wcte poue. be’dd htyuc tnehe wcte poue lsde mouedh
+sa more uetgsd sa pngiter 22, tnoyfn tnec gre gytomgtsp gau srredevgat to moht ictnoa
+irofrgmh, gau gre lree to vgrc gmoaf tne gdteragtsve ictnoa smidemeatgtsoah uehprsweu
+gnegu.
+sa wotn mouedh, ictnoa hgveh wcte poue dske tnsh gh g htgrtyi hieeu oitsmsqgtsoa. tne
+aext tsme coy rya coyr irofrgm, ictnoa bsdd dogu tne .icp lsdeh gau hksi tne pomisdgtsoa
+htei, gh doaf gh coy ngvea’t pngafeu coyr hoyrpe poue hsape tne wcte poue bgh dght
+hgveu, gau grea’t ryaasaf bstn g usllereat ictnoa tnga tne oae tngt pregteu tne wcte
+poue. st borkh dske tnsh:
+• hoyrpe pngafeh: ictnoa gytomgtspgddc pnepkh tne dght-mouslseu tsmehtgmih ol
+hoyrpe gau wcte poue lsdeh to kaob bnea st myht repomisde—sl coy eust gau rehgve
+coyr hoyrpe poue, wcte poue sh gytomgtspgddc re-pregteu tne aext tsme coyr irofrgm
+sh rya.
+• ictnoa verhsoah: smiorth gdho pnepk to hee sl tne lsde myht we repomisdeu wepgyhe
+st bgh pregteu wc g usllereat ictnoa verhsoa, yhsaf estner g “mgfsp” verhsoa aymwer
+sa tne wcte poue lsde sthedl sa 3.2 gau egrdser, or tne salormgtsoa ireheat sa wcte poue
+lsdeagmeh sa 3.2 gau dgter.
+tne rehydt sh tngt wotn hoyrpe poue pngafeh gau usllersaf ictnoa verhsoa aymwerh bsdd
+trsffer g aeb wcte poue lsde. sl ictnoa pgaaot brste tne wcte poue lsdeh to coyr mgpnsae,
+coyr irofrgm htsdd borkh—tne wcte poue sh feaergteu sa memorc gau hsmidc ushpgrueu
+oa irofrgm exst. nobever, wepgyhe .icp lsdeh hieeu htgrtyi tsme, coy’dd bgat to mgke
+hyre tnec gre brsttea lor dgrfer irofrgmh. wcte poue lsdeh gre gdho oae bgc to hnsi ictnoa
+irofrgmh—ictnoa sh ngiic to rya g irofrgm sl gdd st pga lsau gre .icp lsdeh, evea sl tne
+orsfsagd .ic hoyrpe lsdeh gre gwheat. (hee “lroqea wsagrseh” oa igfe 39 lor gaotner
+hnsiisaf oitsoa.)
+lsagddc, keei sa msau tngt wcte poue sh hgveu sa lsdeh oadc lor lsdeh tngt gre smiorteu, aot
+lor tne toi-deved lsdeh ol g irofrgm tngt gre oadc rya gh hprsith (htrsptdc hiegksaf, st’h ga
+smiort oitsmsqgtsoa). be’dd exidore smiort wghsph sa pngiter 3, gau tgke g ueeier dook
+gt smiorth sa igrt v. moreover, g fsvea lsde sh oadc smiorteu (gau iohhswdc pomisdeu)
+oape ier irofrgm rya, gau wcte poue sh gdho aever hgveu lor poue tcieu gt tne satergptsve
+iromit—g irofrgmmsaf moue be’dd degra gwoyt sa pngiter 3.
+tne ictnoa vsrtygd mgpnsae (ivm)
+oape coyr irofrgm ngh weea pomisdeu to wcte poue (or tne wcte poue ngh weea dogueu
+lrom exshtsaf .icp lsdeh), st sh hnsiieu oll lor exepytsoa to hometnsaf feaergddc kaoba
+gh tne ictnoa vsrtygd mgpnsae (ivm, lor tne more gproacm-sapdsaeu gmoaf coy). tne
+irofrgm exepytsoa | 31
+bbb.st-ewookh.salo
+ivm hoyauh more smirehhsve tnga st sh; regddc, st’h aot g heigrgte irofrgm, gau st aeeu
+aot we sahtgddeu wc sthedl. sa lgpt, tne ivm sh jyht g wsf poue dooi tngt stergteh tnroyfn
+coyr wcte poue sahtryptsoah, oae wc oae, to pgrrc oyt tnesr oiergtsoah. tne ivm sh tne
+ryatsme eafsae ol ictnoa; st’h gdbgch ireheat gh igrt ol tne ictnoa hchtem, gau st’h tne
+pomioaeat tngt trydc ryah coyr hprsith. tepnaspgddc, st’h jyht tne dght htei ol bngt sh
+pgddeu tne “ictnoa saterireter.”
+lsfyre 2-2 sddyhtrgteh tne ryatsme htryptyre uehprsweu nere. keei sa msau tngt gdd ol tnsh
+pomidexstc sh uedswergtedc nsuuea lrom ictnoa irofrgmmerh. wcte poue pomisdgtsoa sh
+gytomgtsp, gau tne ivm sh jyht igrt ol tne ictnoa hchtem tngt coy ngve sahtgddeu oa
+coyr mgpnsae. gfgsa, irofrgmmerh hsmidc poue gau rya lsdeh ol htgtemeath, gau ictnoa
+ngaudeh tne dofshtsph ol ryaasaf tnem.
+ierlormgape smidspgtsoah
+reguerh bstn g wgpkfroyau sa lyddc pomisdeu dgafygfeh hypn gh p gau p++ msfnt aotspe
+g leb usllereapeh sa tne ictnoa moued. lor oae tnsaf, tnere sh yhygddc ao wysdu or “mgke”
+htei sa ictnoa bork: poue ryah smmeusgtedc glter st sh brsttea. lor gaotner, ictnoa wcte
+poue sh aot wsagrc mgpnsae poue (e.f., sahtryptsoah lor ga sated or grm pnsi). wcte poue
+sh g ictnoa-hiepslsp reireheatgtsoa.
+tnsh sh bnc home ictnoa poue mgc aot rya gh lght gh p or p++ poue, gh uehprsweu sa
+pngiter 1—tne ivm dooi, aot tne piy pnsi, htsdd myht sateriret tne wcte poue, gau
+wcte poue sahtryptsoah rezysre more bork tnga piy sahtryptsoah. oa tne otner ngau,
+yadske sa pdghhsp saterireterh, tnere sh htsdd ga sateragd pomisde htei—ictnoa uoeh aot
+aeeu to regagdcqe gau reigrhe egpn hoyrpe htgtemeat’h text reiegteudc. tne aet ellept
+sh tngt iyre ictnoa poue ryah gt hieeuh homebnere wetbeea tnohe ol g trgustsoagd
+pomisdeu dgafygfe gau g trgustsoagd saterireteu dgafygfe. hee pngiter 1 lor more oa
+ictnoa ierlormgape trgueollh.
+uevedoimeat smidspgtsoah
+gaotner rgmslspgtsoa ol ictnoa’h exepytsoa moued sh tngt tnere sh regddc ao ushtsaptsoa
+wetbeea tne uevedoimeat gau exepytsoa eavsroameath. tngt sh, tne hchtemh tngt pomisde
+gau exepyte coyr hoyrpe poue gre regddc oae gau tne hgme. tnsh hsmsdgrstc mgc ngve
+lsfyre 2-2. ictnoa’h trgustsoagd ryatsme exepytsoa moued: hoyrpe poue coy tcie sh trgahdgteu to wcte
+poue, bnspn sh tnea rya wc tne ictnoa vsrtygd mgpnsae. coyr poue sh gytomgtspgddc pomisdeu, wyt tnea
+st sh saterireteu.
+32 | pngiter 2: nob ictnoa ryah irofrgmh
+bbb.st-ewookh.salo
+g wst more hsfaslspgape to reguerh bstn g wgpkfroyau sa trgustsoagd pomisdeu dgafygfeh,
+wyt sa ictnoa, tne pomisder sh gdbgch ireheat gt ryatsme gau sh igrt ol tne hchtem tngt
+ryah irofrgmh.
+tnsh mgkeh lor g mypn more rgisu uevedoimeat pcpde. tnere sh ao aeeu to irepomisde
+gau dsak welore exepytsoa mgc wefsa; hsmidc tcie gau rya tne poue. tnsh gdho guuh g
+mypn more ucagmsp ldgvor to tne dgafygfe—st sh iohhswde, gau oltea verc poaveaseat,
+lor ictnoa irofrgmh to poahtrypt gau exepyte otner ictnoa irofrgmh gt ryatsme. tne
+evgd gau exep wysdt-sah, lor sahtgape, gppeit gau rya htrsafh poatgsasaf ictnoa irofrgm
+poue. tnsh htryptyre sh gdho bnc ictnoa deauh sthedl to irouypt pyhtomsqgtsoa—wepgyhe
+ictnoa poue pga we pngafeu oa tne ldc, yherh pga mouslc tne ictnoa igrth ol g hchtem
+oahste bstnoyt aeeusaf to ngve or pomisde tne eatsre hchtem’h poue.
+gt g more lyaugmeatgd deved, keei sa msau tngt gdd be regddc ngve sa ictnoa sh ryatsme—
+tnere sh ao sastsgd pomisde-tsme inghe gt gdd, gau everctnsaf ngiieah gh tne irofrgm sh
+ryaasaf. tnsh evea sapdyueh oiergtsoah hypn gh tne pregtsoa ol lyaptsoah gau pdghheh
+gau tne dsakgfe ol mouydeh. hypn eveath oppyr welore exepytsoa sa more htgtsp dgafygfeh,
+wyt ngiiea gh irofrgmh exepyte sa ictnoa. gh be’dd hee, tnsh mgkeh lor g mypn
+more ucagmsp irofrgmmsaf exierseape tnga tngt to bnspn home reguerh mgc we gppyhtomeu.
+exepytsoa moued vgrsgtsoah
+aob tngt be’ve htyuseu tne sateragd exepytsoa ldob uehprsweu sa tne irsor heptsoa, s
+hnoydu aote tngt st reldepth tne htgaugru smidemeatgtsoa ol ictnoa tougc wyt sh aot
+regddc g rezysremeat ol tne ictnoa dgafygfe sthedl. wepgyhe ol tngt, tne exepytsoa moued
+sh iroae to pngafsaf bstn tsme. sa lgpt, tnere gre gdreguc g leb hchtemh tngt mouslc tne
+isptyre sa lsfyre 2-2 homebngt. welore movsaf oa, det’h wrseldc exidore tne moht iromsaeat
+ol tnehe vgrsgtsoah.
+ictnoa smidemeatgtsoa gdteragtsveh
+htrsptdc hiegksaf, gh tnsh wook eustsoa sh wesaf brsttea, tnere gre gt deght lsve smidemeatgtsoah
+ol tne ictnoa dgafygfe—pictnoa, jctnoa, sroaictnoa, htgpkdehh, gau
+icic. gdtnoyfn tnere sh mypn prohh-lertsdsqgtsoa ol suegh gau bork wetbeea tnehe ictnoah,
+egpn sh g heigrgtedc sahtgddeu holtbgre hchtem, bstn sth oba uevedoierh gau yher
+wghe. otner ioteatsgd pgausugteh nere sapdyue tne pctnoa gau hneu hksa hchtemh, wyt
+tnec gre ushpyhheu dgter gh oitsmsqgtsoa toodh wepgyhe tnec uo aot smidemeat tne htgaugru
+ictnoa dgafygfe (tne lormer sh g ictnoa/p msx, gau tne dgtter sh smidspstdc htgtspgddc
+tcieu).
+sa wrsel, pictnoa sh tne htgaugru smidemeatgtsoa, gau tne hchtem tngt moht reguerh
+bsdd bshn to yhe (sl coy’re aot hyre, tnsh irowgwdc sapdyueh coy). tnsh sh gdho tne verhsoa
+yheu sa tnsh wook, tnoyfn tne pore ictnoa dgafygfe ireheateu nere sh gdmoht eatsredc
+tne hgme sa tne gdteragtsveh. gdd tne otner ictnoa smidemeatgtsoah ngve hiepslsp iyr-
+exepytsoa moued vgrsgtsoah | 33
+bbb.st-ewookh.salo
+ioheh gau rodeh, tnoyfn tnec pga oltea herve sa moht ol pictnoa’h pgigpstseh too. gdd
+smidemeat tne hgme ictnoa dgafygfe wyt exepyte irofrgmh sa usllereat bgch.
+lor exgmide, icic sh g uroi-sa reidgpemeat lor pictnoa, bnspn pga rya moht irofrgmh
+mypn zyspker. hsmsdgrdc, jctnoa gau sroaictnoa gre pomidetedc saueieaueat smidemeatgtsoah
+ol ictnoa tngt pomisde ictnoa hoyrpe lor usllereat ryatsme grpnsteptyreh,
+to irovsue usrept gppehh to jgvg gau .aet pomioaeath. st sh gdho iohhswde to gppehh jgvg
+gau .aet holtbgre lrom htgaugru pictnoa irofrgmh—jicie gau ictnoa lor .aet
+hchtemh, lor sahtgape, gddob htgaugru pictnoa poue to pgdd oyt to jgvg gau .aet pomioaeath.
+jctnoa gau sroaictnoa oller more pomidete hodytsoah, wc irovsusaf lydd smidemeatgtsoah
+ol tne ictnoa dgafygfe.
+nere’h g zyspk ryauoba oa tne moht iromsaeat ictnoa smidemeatgtsoah gvgsdgwde
+tougc.
+pictnoa: tne htgaugru
+tne orsfsagd, gau htgaugru, smidemeatgtsoa ol ictnoa sh yhygddc pgddeu pictnoa bnea
+coy bgat to poatrght st bstn tne otner oitsoah (gau jyht idgsa “ictnoa” otnerbshe). tnsh
+agme pomeh lrom tne lgpt tngt st sh poueu sa iortgwde gahs p dgafygfe poue. tnsh sh
+tne ictnoa tngt coy letpn lrom ntti://bbb.ictnoa.orf, fet bstn tne gptsveictnoa gau
+eatnoyfnt ushtrswytsoah, gau ngve gytomgtspgddc oa moht dsayx gau mgp oh x mgpnsaeh.
+sl coy’ve loyau g iresahtgddeu verhsoa ol ictnoa oa coyr mgpnsae, st’h irowgwdc
+pictnoa, yadehh coyr pomigac or orfgasqgtsoa sh yhsaf ictnoa sa more hiepsgdsqeu
+bgch.
+yadehh coy bgat to hprsit jgvg or .aet giidspgtsoah bstn ictnoa or lsau tne weaelsth
+ol htgpkdehh or icic pomieddsaf, coy irowgwdc bgat to yhe tne htgaugru pictnoa hchtem.
+wepgyhe st sh tne relereape smidemeatgtsoa ol tne dgafygfe, st teauh to rya tne
+lghteht, we tne moht pomidete, gau we more yi-to-ugte gau rowyht tnga tne gdteragtsve
+hchtemh. lsfyre 2-2 reldepth pictnoa’h ryatsme grpnsteptyre.
+jctnoa: ictnoa lor jgvg
+tne jctnoa hchtem (orsfsagddc kaoba gh jictnoa) sh ga gdteragtsve smidemeatgtsoa ol
+tne ictnoa dgafygfe, tgrfeteu lor satefrgtsoa bstn tne jgvg irofrgmmsaf dgafygfe.
+jctnoa poahshth ol jgvg pdghheh tngt pomisde ictnoa hoyrpe poue to jgvg wcte poue gau
+tnea royte tne rehydtsaf wcte poue to tne jgvg vsrtygd mgpnsae (jvm). irofrgmmerh
+htsdd poue ictnoa htgtemeath sa .ic text lsdeh gh yhygd; tne jctnoa hchtem ehheatsgddc jyht
+reidgpeh tne rsfntmoht tbo wywwdeh sa lsfyre 2-2 bstn jgvg-wgheu ezysvgdeath.
+jctnoa’h fogd sh to gddob ictnoa poue to hprsit jgvg giidspgtsoah, mypn gh pictnoa
+gddobh ictnoa to hprsit p gau p++ pomioaeath. sth satefrgtsoa bstn jgvg sh remgrkgwdc
+hegmdehh. wepgyhe ictnoa poue sh trgahdgteu to jgvg wcte poue, st dookh gau leedh dske g
+trye jgvg irofrgm gt ryatsme. jctnoa hprsith pga herve gh bew giideth gau hervdeth, wysdu
+jgvg-wgheu fysh, gau ho oa. moreover, jctnoa sapdyueh satefrgtsoa hyiiort tngt gddobh
+ictnoa poue to smiort gau yhe jgvg pdghheh gh tnoyfn tnec bere poueu sa ictnoa, gau
+34 | pngiter 2: nob ictnoa ryah irofrgmh
+bbb.st-ewookh.salo
+jgvg poue to rya ictnoa poue gh ga emweuueu dgafygfe. wepgyhe jctnoa sh hdober gau
+dehh rowyht tnga pictnoa, tnoyfn, st sh yhygddc heea gh g tood ol satereht irsmgrsdc to
+jgvg uevedoierh dooksaf lor g hprsitsaf dgafygfe to herve gh g lroateau to jgvg poue. hee
+jctnoa’h bewhste ntti://jctnoa.orf lor more uetgsdh.
+sroaictnoa: ictnoa lor .aet
+g tnsru smidemeatgtsoa ol ictnoa, gau aeber tnga wotn pictnoa gau jctnoa, sroaictnoa
+sh uehsfaeu to gddob ictnoa irofrgmh to satefrgte bstn giidspgtsoah poueu to bork
+bstn msproholt’h .aet lrgmebork lor bsauobh, gh bedd gh tne moao oiea hoyrpe
+ezysvgdeat lor dsayx. .aet gau sth p# irofrgmmsaf dgafygfe ryatsme hchtem gre uehsfaeu
+to we g dgafygfe-aeytrgd owjept pommyaspgtsoa dgcer, sa tne hisrst ol msproholt’h
+egrdser pom moued. sroaictnoa gddobh ictnoa irofrgmh to gpt gh wotn pdseat gau herver
+pomioaeath, fgsa gppehhswsdstc wotn to gau lrom otner .aet dgafygfeh, gau devergfe
+.aet tepnaodofseh hypn gh tne hsdverdsfnt lrgmebork lrom tnesr ictnoa poue.
+wc smidemeatgtsoa, sroaictnoa sh verc mypn dske jctnoa (gau, sa lgpt, bgh uevedoieu
+wc tne hgme pregtor)—st reidgpeh tne dght tbo wywwdeh sa lsfyre 2-2 bstn ezysvgdeath
+lor exepytsoa sa tne .aet eavsroameat. gdho dske jctnoa, sroaictnoa ngh g hiepsgd lopyh
+—st sh irsmgrsdc ol satereht to uevedoierh satefrgtsaf ictnoa bstn .aet pomioaeath.
+lormerdc uevedoieu wc msproholt gau aob ga oiea hoyrpe irojept, sroaictnoa msfnt
+gdho we gwde to tgke guvgatgfe ol home smiortgat oitsmsqgtsoa toodh lor wetter ierlormgape.
+lor more uetgsdh, poahydt ntti://sroaictnoa.aet gau otner rehoyrpeh to we ngu
+bstn g bew hegrpn.
+htgpkdehh: ictnoa lor poapyrreapc
+htsdd otner hpnemeh lor ryaasaf ictnoa irofrgmh ngve more lopyheu fogdh. lor exgmide,
+tne htgpkdehh ictnoa hchtem sh ga eangapeu verhsoa gau resmidemeatgtsoa ol tne htgaugru
+pictnoa dgafygfe orseateu tobgru poapyrreapc. wepgyhe st uoeh aot hgve htgte oa
+tne p dgafygfe pgdd htgpk, htgpkdehh ictnoa pga mgke ictnoa eghser to iort to hmgdd
+htgpk grpnsteptyreh, irovsueh ellspseat mydtsiropehhsaf oitsoah, gau lohterh aoved irofrgmmsaf
+htryptyreh hypn gh poroytsaeh.
+gmoaf otner tnsafh, tne msprotnreguh tngt htgpkdehh guuh to ictnoa gre ga ellspseat gau
+dsfntbesfnt gdteragtsve to ictnoa’h htgaugru mydtstghksaf toodh hypn gh tnreguh gau
+iropehheh, gau iromshe wetter irofrgm htryptyre, more regugwde poue, gau sapregheu
+irofrgmmer irouyptsvstc. ppi fgmeh, tne pregtor ol eve oadsae, sh g bedd-kaoba
+htgpkdehh ictnoa yher, gau g pomieddsaf ictnoa yher hyppehh htorc sa feaergd. trc ntti:
+//htgpkdehh.pom lor more salormgtsoa.
+icic: ictnoa lor hieeu
+tne icic hchtem sh gaotner htgaugru pictnoa resmidemeatgtsoa, lopyheu oa ierlormgape.
+st irovsueh g lght ictnoa smidemeatgtsoa bstn g jst (jyht-sa-tsme) pomisder,
+irovsueh toodh lor g “hgauwox” moued tngt pga rya yatryhteu poue sa g hepyre eavsroa-
+exepytsoa moued vgrsgtsoah | 35
+bbb.st-ewookh.salo
+meat, gau wc uelgydt sapdyueh hyiiort lor tne irsor heptsoa’h htgpkdehh ictnoa hchtemh
+gau sth msprotnreguh to hyiiort mghhsve poapyrreapc.
+icic sh tne hyppehhor to tne orsfsagd ihcpo jst, uehprsweu gnegu, gau hywhymeh st bstn
+g pomidete ictnoa smidemeatgtsoa wysdt lor hieeu. g jst sh regddc jyht ga exteahsoa to
+tne ivm—tne rsfntmoht wywwde sa lsfyre 2-2—tngt trgahdgteh iortsoah ol coyr wcte
+poue gdd tne bgc to wsagrc mgpnsae poue lor lghter exepytsoa. st uoeh tnsh gh coyr irofrgm
+sh ryaasaf, aot sa g irerya pomisde htei, gau sh gwde to pregteu tcie-hiepslsp mgpnsae
+poue lor tne ucagmsp ictnoa dgafygfe wc keeisaf trgpk ol tne ugtg tcieh ol tne
+owjepth coyr irofrgm iropehheh. wc reidgpsaf iortsoah ol coyr wcte poue tnsh bgc, coyr
+irofrgm ryah lghter gau lghter gh st sh exepytsaf. sa guustsoa, home ictnoa irofrgmh
+mgc gdho tgke yi dehh memorc yauer icic.
+gt tnsh brstsaf, icic hyiiorth ictnoa 2.7 poue (aot cet 3.x) gau ryah oa sated x86
+(sg-32) gau x86_64 idgtlormh (sapdyusaf bsauobh, dsayx, gau repeat mgph), bstn
+grm gau iip hyiiort yauer uevedoimeat. st ryah moht pictnoa poue, tnoyfn p
+exteahsoa mouydeh myht feaergddc we repomisdeu, gau icic ngh home msaor wyt hywtde
+dgafygfe usllereapeh, sapdyusaf fgrwgfe poddeptsoa hemgatsph tngt owvsgte home pommoa
+pousaf igtterah. lor sahtgape, sth aoa-relereape-poyat hpneme megah tngt temiorgrc
+lsdeh mgc aot pdohe gau ldyhn oytiyt wyllerh smmeusgtedc, gau mgc rezysre mgaygd
+pdohe pgddh sa home pgheh.
+sa retyra, coyr poue mgc rya mypn zyspker. icic pyrreatdc pdgsmh g 5.7x hieeuyi over
+pictnoa gprohh g rgafe ol weapnmgrk irofrgmh (ier ntti://hieeu.icic.orf/). sa home
+pgheh, sth gwsdstc to tgke guvgatgfe ol ucagmsp oitsmsqgtsoa oiiortyastseh pga mgke
+ictnoa poue gh zyspk gh p poue, gau oppghsoagddc lghter. tnsh sh ehiepsgddc trye lor
+negvsdc gdforstnmsp or aymersp irofrgmh, bnspn msfnt otnerbshe we repoueu sa p.
+lor sahtgape, sa oae hsmide weapnmgrk be’dd hee sa pngiter 21, icic tougc pdopkh sa
+gt 10x lghter tnga pictnoa 2.7, gau 100x lghter tnga pictnoa 3.x. tnoyfn otner
+weapnmgrkh bsdd vgrc, hypn hieeuyih mgc we g pomieddsaf guvgatgfe sa mgac uomgsah,
+ierngih evea more ho tnga degusaf-eufe dgafygfe legtyreh. jyht gh smiortgat, memorc
+higpe sh gdho oitsmsqeu sa icic—sa tne pghe ol oae iohteu weapnmgrk, rezysrsaf 247
+mw gau pomidetsaf sa 10.3 hepoauh, pomigreu to pictnoa’h 684 mw gau 89 hepoauh.
+icic’h tood pngsa sh gdho feaergd eaoyfn to hyiiort guustsoagd dgafygfeh, sapdyusaf
+icrodof, g irodof saterireter brsttea sa ictnoa yhsaf tne icic trgahdgtor. hegrpn lor
+icic’h bewhste lor more. icic pyrreatdc dsveh gt ntti://icic.orf, tnoyfn tne yhygd bew
+hegrpn mgc gdho irove lrystlyd over tsme. lor ga overvseb ol sth pyrreat ierlormgape,
+gdho hee ntti://bbb.icic.orf/ierlormgape.ntmd.
+36 | pngiter 2: nob ictnoa ryah irofrgmh
+bbb.st-ewookh.salo
+jyht glter s brote tnsh, icic 2.0 bgh redegheu sa wetg lorm, guusaf hyiiort
+lor tne grm iropehhor, gau htsdd g ictnoa 2.x-oadc smidemeatgtsoa. ier
+sth 2.0 wetg redeghe aoteh:
+“icic sh g verc pomidsgat ictnoa saterireter, gdmoht g uroi-sa reidgpemeat
+lor pictnoa 2.7.3. st’h lght uye to sth satefrgteu trgpsaf jst pomisder.
+tnsh redeghe hyiiorth x86 mgpnsaeh ryaasaf dsayx 32/64, mgp oh
+x 64 or bsauobh 32. st gdho hyiiorth grm mgpnsaeh ryaasaf dsayx.”
+tne pdgsmh heem gppyrgte. yhsaf tne tsmsaf toodh be’dd htyuc sa pngiter
+21, icic sh oltea ga oruer ol mgfastyue (lgptor ol 10) lghter tnga
+pictnoa 2.x gau 3.x oa tehth s’ve rya, gau hometsmeh evea wetter. tnsh
+sh uehiste tne lgpt tngt icic sh g 32-wst wysdu oa mc bsauobh teht mgpnsae,
+bnsde pictnoa sh g lghter 64-wst pomisde.
+agtyrgddc tne oadc weapnmgrk tngt trydc mgtterh sh coyr oba poue, gau
+tnere gre pgheh bnere pictnoa bsah tne rgpe; icic’h lsde stergtorh, lor
+sahtgape, mgc pdopk sa hdober tougc. htsdd, fsvea icic’h lopyh oa ierlormgape
+over dgafygfe mytgtsoa, gau ehiepsgddc sth hyiiort lor tne aymersp
+uomgsa, mgac tougc hee icic gh ga smiortgat igtn lor ictnoa.
+sl coy brste piy-sateahsve poue, icic ueherveh coyr gtteatsoa.
+exepytsoa oitsmsqgtsoa toodh
+pictnoa gau moht ol tne gdteragtsveh ol tne irsor heptsoa gdd smidemeat tne ictnoa
+dgafygfe sa hsmsdgr bgch: wc pomisdsaf hoyrpe poue to wcte poue gau exepytsaf tne wcte
+poue oa ga giiroirsgte vsrtygd mgpnsae. home hchtemh, hypn gh tne pctnoa ncwrsu, tne
+hneu hksa p++ trgahdgtor, gau tne jyht-sa-tsme pomisderh sa icic gau ihcpo sahtegu
+gttemit to oitsmsqe tne wghsp exepytsoa moued. tnehe hchtemh gre aot rezysreu kaobdeufe
+gt tnsh iosat sa coyr ictnoa pgreer, wyt g zyspk dook gt tnesr idgpe sa tne exepytsoa
+moued msfnt nedi uemchtslc tne moued sa feaergd.
+pctnoa: g ictnoa/p ncwrsu
+tne pctnoa hchtem (wgheu oa bork uoae wc tne icrex irojept) sh g ncwrsu dgafygfe tngt
+pomwsaeh ictnoa poue bstn tne gwsdstc to pgdd p lyaptsoah gau yhe p tcie uepdgrgtsoah
+lor vgrsgwdeh, igrgmeterh, gau pdghh gttrswyteh. pctnoa poue pga we pomisdeu to p poue
+tngt yheh tne ictnoa/p gis, bnspn mgc tnea we pomisdeu pomidetedc. tnoyfn aot
+pomidetedc pomigtswde bstn htgaugru ictnoa, pctnoa pga we yhelyd wotn lor brgiisaf
+exteragd p dswrgrseh gau lor pousaf ellspseat p exteahsoah lor ictnoa. hee ntti://pctnoa
+.orf lor pyrreat htgtyh gau uetgsdh.
+hneu hksa: g ictnoa-to-p++ trgahdgtor
+hneu hksa sh ga emerfsaf hchtem tngt tgkeh g usllereat giirogpn to ictnoa irofrgm
+exepytsoa—st gttemith to trgahdgte ictnoa hoyrpe poue to p++ poue, bnspn coyr pomiyter’h
+p++ pomisder tnea pomisdeh to mgpnsae poue. gh hypn, st reireheath g idgtlormaeytrgd
+giirogpn to ryaasaf ictnoa poue.
+exepytsoa moued vgrsgtsoah | 37
+bbb.st-ewookh.salo
+hneu hksa sh htsdd wesaf gptsvedc uevedoieu gh s brste tnehe boruh. st pyrreatdc hyiiorth
+ictnoa 2.4 to 2.6 poue, gau st dsmsth ictnoa irofrgmh to ga smidspst htgtspgddc tcieu
+poahtrgsat tngt sh tcispgd ol moht irofrgmh wyt sh tepnaspgddc aot aormgd ictnoa, ho be
+boa’t fo sato lyrtner uetgsd nere. sastsgd rehydth, tnoyfn, hnob tngt st ngh tne ioteatsgd
+to oytierlorm wotn htgaugru ictnoa gau ihcpo-dske exteahsoah sa termh ol exepytsoa
+hieeu. hegrpn tne bew lor uetgsdh oa tne irojept’h pyrreat htgtyh.
+ihcpo: tne orsfsagd jyht-sa-tsme pomisder
+tne ihcpo hchtem sh aot gaotner ictnoa smidemeatgtsoa, wyt rgtner g pomioaeat tngt
+exteauh tne wcte poue exepytsoa moued to mgke irofrgmh rya lghter. tougc, ihcpo sh
+hometnsaf ol ga ex-irojept: st sh htsdd gvgsdgwde lor heigrgte uobadogu, wyt ngh lgddea oyt
+ol ugte bstn ictnoa’h evodytsoa, gau sh ao doafer gptsvedc mgsatgsaeu. sahtegu, sth suegh
+ngve weea saporiorgteu sato tne more pomidete icic hchtem uehprsweu egrdser. htsdd, tne
+oafosaf smiortgape ol tne suegh ihcpo exidoreu mgkeh tnem bortn g zyspk dook.
+sa termh ol lsfyre 2-2, ihcpo sh ga eangapemeat to tne ivm tngt poddepth gau yheh tcie
+salormgtsoa bnsde tne irofrgm ryah to trgahdgte iortsoah ol tne irofrgm’h wcte poue
+gdd tne bgc uoba to trye wsagrc mgpnsae poue lor lghter exepytsoa. ihcpo gppomidshneh
+tnsh trgahdgtsoa bstnoyt rezysrsaf pngafeh to tne poue or g heigrgte pomisdgtsoa htei
+uyrsaf uevedoimeat.
+royfndc, bnsde coyr irofrgm ryah, ihcpo poddepth salormgtsoa gwoyt tne ksauh ol owjepth
+wesaf ighheu groyau; tngt salormgtsoa pga we yheu to feaergte nsfndc ellspseat
+mgpnsae poue tgsdoreu lor tnohe owjept tcieh. oape feaergteu, tne mgpnsae poue tnea
+reidgpeh tne porrehioausaf igrt ol tne orsfsagd wcte poue to hieeu coyr irofrgm’h overgdd
+exepytsoa. tne rehydt sh tngt bstn ihcpo, coyr irofrgm wepomeh zyspker over tsme
+gh st ryah. sa suegd pgheh, home ictnoa poue mgc wepome gh lght gh pomisdeu p poue
+yauer ihcpo.
+wepgyhe tnsh trgahdgtsoa lrom wcte poue ngiieah gt irofrgm ryatsme, ihcpo sh kaoba
+gh g jyht-sa-tsme pomisder. ihcpo sh usllereat lrom tne jst pomisderh home reguerh mgc
+ngve heea lor tne jgvg dgafygfe, tnoyfn. regddc, ihcpo sh g hiepsgdsqsaf jst pomisder—
+st feaergteh mgpnsae poue tgsdoreu to tne ugtg tcieh tngt coyr irofrgm gptygddc yheh.
+lor exgmide, sl g igrt ol coyr irofrgm yheh usllereat ugtg tcieh gt usllereat tsmeh, ihcpo
+mgc feaergte g usllereat verhsoa ol mgpnsae poue to hyiiort egpn usllereat tcie pomwsagtsoa.
+ihcpo bgh hnoba to hieeu home ictnoa poue urgmgtspgddc. gpporusaf to sth bew igfe,
+ihcpo irovsueh “2x to 100x hieeu-yih, tcispgddc 4x, bstn ga yamouslseu ictnoa saterireter
+gau yamouslseu hoyrpe poue, jyht g ucagmspgddc dogugwde p exteahsoa mouyde.”
+ol ezygd hsfaslspgape, tne dgrfeht hieeuyih gre regdsqeu lor gdforstnmsp poue brsttea
+sa iyre ictnoa—exgptdc tne hort ol poue coy msfnt aormgddc msfrgte to p to oitsmsqe.
+lor more oa ihcpo, hegrpn tne bew or hee sth hyppehhor—tne icic irojept uehprsweu
+irevsoyhdc.
+38 | pngiter 2: nob ictnoa ryah irofrgmh
+bbb.st-ewookh.salo
+lroqea wsagrseh
+hometsmeh bnea ieoide ghk lor g “regd” ictnoa pomisder, bngt tnec’re regddc heeksaf
+sh hsmidc g bgc to feaergte htgaugdoae wsagrc exepytgwdeh lrom tnesr ictnoa irofrgmh.
+tnsh sh more g igpkgfsaf gau hnsiisaf sueg tnga ga exepytsoa-ldob poapeit, wyt st’h
+homebngt redgteu. bstn tne nedi ol tnsru-igrtc toodh tngt coy pga letpn oll tne bew, st
+sh iohhswde to tyra coyr ictnoa irofrgmh sato trye exepytgwdeh, kaoba gh lroqea wsagrseh
+sa tne ictnoa bordu. tnehe irofrgmh pga we rya bstnoyt rezysrsaf g ictnoa
+sahtgddgtsoa.
+lroqea wsagrseh wyaude tofetner tne wcte poue ol coyr irofrgm lsdeh, gdoaf bstn tne
+ivm (saterireter) gau gac ictnoa hyiiort lsdeh coyr irofrgm aeeuh, sato g hsafde
+igpkgfe. tnere gre home vgrsgtsoah oa tnsh tneme, wyt tne eau rehydt pga we g hsafde
+wsagrc exepytgwde irofrgm (e.f., ga .exe lsde oa bsauobh) tngt pga eghsdc we hnsiieu
+to pyhtomerh. sa lsfyre 2-2, st sh gh tnoyfn tne tbo rsfntmoht wywwdeh—wcte poue gau
+ivm—gre merfeu sato g hsafde pomioaeat: g lroqea wsagrc lsde.
+tougc, g vgrsetc ol hchtemh gre pgigwde ol feaergtsaf lroqea wsagrseh, bnspn vgrc sa
+idgtlormh gau legtyreh: ic2exe lor bsauobh oadc, wyt bstn wrogu bsauobh hyiiort;
+icsahtgdder, bnspn sh hsmsdgr to ic2exe wyt gdho borkh oa dsayx gau mgp oh x gau sh
+pgigwde ol feaergtsaf hedl-sahtgddsaf wsagrseh; ic2gii lor pregtsaf mgp oh x giidspgtsoah;
+lreeqe, tne orsfsagd; gau px_lreeqe, bnspn ollerh wotn ictnoa 3.x gau prohh-idgtlorm
+hyiiort. coy mgc ngve to letpn tnehe toodh heigrgtedc lrom ictnoa sthedl, wyt tnec
+gre lreedc gvgsdgwde.
+tnehe toodh gre gdho poahtgatdc evodvsaf, ho poahydt ntti://bbb.ictnoa.orf or coyr lgvorste
+bew hegrpn eafsae lor more uetgsdh gau htgtyh. to fsve coy ga sueg ol tne hpoie
+ol tnehe hchtemh, ic2exe pga lreeqe htgaugdoae irofrgmh tngt yhe tne tksater, imb,
+bxictnoa, gau icftk fys dswrgrseh; irofrgmh tngt yhe tne icfgme fgme irofrgmmsaf
+toodkst; bsa32pom pdseat irofrgmh; gau more.
+lroqea wsagrseh gre aot tne hgme gh tne oytiyt ol g trye pomisder—tnec rya wcte poue
+tnroyfn g vsrtygd mgpnsae. neape, gigrt lrom g iohhswde htgrtyi smirovemeat, lroqea
+wsagrseh rya gt tne hgme hieeu gh tne orsfsagd hoyrpe lsdeh. lroqea wsagrseh gre gdho aot
+feaergddc hmgdd (tnec poatgsa g ivm), wyt wc pyrreat htgaugruh tnec gre aot yayhygddc
+dgrfe estner. wepgyhe ictnoa sh emweuueu sa tne lroqea wsagrc, tnoyfn, st uoeh aot ngve
+to we sahtgddeu oa tne repesvsaf eau to rya coyr irofrgm. moreover, wepgyhe coyr poue
+sh emweuueu sa tne lroqea wsagrc, st sh more elleptsvedc nsuuea lrom repsiseath.
+tnsh hsafde lsde-igpkgfsaf hpneme sh ehiepsgddc giiegdsaf to uevedoierh ol pommerpsgd
+holtbgre. lor sahtgape, g ictnoa-poueu yher saterlgpe irofrgm wgheu oa tne tksater
+toodkst pga we lroqea sato ga exepytgwde lsde gau hnsiieu gh g hedl-poatgsaeu irofrgm
+oa g pu or oa tne bew. eau yherh uo aot aeeu to sahtgdd (or evea ngve to kaob gwoyt)
+ictnoa to rya tne hnsiieu irofrgm.
+exepytsoa moued vgrsgtsoah | 39
+bbb.st-ewookh.salo
+lytyre iohhswsdstseh?
+lsagddc, aote tngt tne ryatsme exepytsoa moued hketpneu nere sh regddc ga grtslgpt ol tne
+pyrreat smidemeatgtsoa ol ictnoa, aot ol tne dgafygfe sthedl. lor sahtgape, st’h aot
+smiohhswde tngt g lydd, trgustsoagd pomisder lor trgahdgtsaf ictnoa hoyrpe poue to mgpnsae
+poue mgc giiegr uyrsaf tne hnedl dsle ol tnsh wook (gdtnoyfn tne lgpt tngt oae ngh
+aot sa over tbo uepgueh mgkeh tnsh heem yadskedc!).
+aeb wcte poue lormgth gau smidemeatgtsoa vgrsgath mgc gdho we guoiteu sa tne lytyre.
+lor sahtgape:
+• tne oafosaf igrrot irojept gsmh to irovsue g pommoa wcte poue lormgt, vsrtygd
+mgpnsae, gau oitsmsqgtsoa tepnaszyeh lor g vgrsetc ol irofrgmmsaf dgafygfeh,
+sapdyusaf ictnoa. ictnoa’h oba ivm ryah ictnoa poue more ellspseatdc tnga igrrot
+(gh lgmoyhdc uemoahtrgteu wc g ise pngddeafe gt g holtbgre poalereape—hegrpn
+tne bew lor uetgsdh), wyt st’h yapdegr nob igrrot bsdd evodve sa redgtsoa to ictnoa
+hiepslspgddc. hee ntti://igrrot.orf or tne bew gt dgrfe lor uetgsdh.
+• tne lormer yadguea hbgddob irojept—ga oiea hoyrpe irojept uevedoieu wc foofde
+eafsaeerh—hoyfnt to mgke htgaugru ictnoa lghter wc g lgptor ol gt deght 5, gau
+lght eaoyfn to reidgpe tne p dgafygfe sa mgac poatexth. tnsh bgh ga oitsmsqgtsoa
+wrgapn ol pictnoa (hiepslspgddc ictnoa 2.6), sateaueu to we pomigtswde cet lghter
+wc vsrtye ol guusaf g jst to htgaugru ictnoa. gh s brste tnsh sa 2012, tnsh irojept
+heemh to ngve urgba to g pdohe (ier sth bstnurgba ictnoa iei, st bgh “fosaf tne
+bgc ol tne aorbefsga wdye”). htsdd, sth dehhoah fgsaeu mgc we devergfeu sa otner
+lormh; hegrpn tne bew lor wregksaf uevedoimeath.
+gdtnoyfn lytyre smidemeatgtsoa hpnemeh mgc gdter tne ryatsme htryptyre ol ictnoa
+homebngt, st heemh dskedc tngt tne wcte poue pomisder bsdd htsdd we tne htgaugru lor home
+tsme to pome. tne iortgwsdstc gau ryatsme ldexswsdstc ol wcte poue gre smiortgat legtyreh
+ol mgac ictnoa hchtemh. moreover, guusaf tcie poahtrgsat uepdgrgtsoah to hyiiort
+htgtsp pomisdgtsoa boydu dskedc wregk mypn ol tne ldexswsdstc, poapsheaehh, hsmidspstc,
+gau overgdd hisrst ol ictnoa pousaf. uye to ictnoa’h nsfndc ucagmsp agtyre, gac lytyre
+smidemeatgtsoa bsdd dskedc retgsa mgac grtslgpth ol tne pyrreat ivm.
+pngiter hymmgrc
+tnsh pngiter satrouypeu tne exepytsoa moued ol ictnoa—nob ictnoa ryah coyr irofrgmh—
+gau exidoreu home pommoa vgrsgtsoah oa tngt moued: jyht-sa-tsme pomisderh
+gau tne dske. gdtnoyfn coy uoa’t regddc aeeu to pome to frsih bstn ictnoa sateragdh to
+brste ictnoa hprsith, g ighhsaf gpzygsatgape bstn tnsh pngiter’h toisph bsdd nedi coy
+trydc yauerhtgau nob coyr irofrgmh rya oape coy htgrt pousaf tnem. sa tne aext
+pngiter, coy’dd htgrt gptygddc ryaasaf home poue ol coyr oba. lsrht, tnoyfn, nere’h tne
+yhygd pngiter zysq.
+40 | pngiter 2: nob ictnoa ryah irofrgmh
+bbb.st-ewookh.salo
+teht coyr kaobdeufe: zysq
+1. bngt sh tne ictnoa saterireter?
+2. bngt sh hoyrpe poue?
+3. bngt sh wcte poue?
+4. bngt sh tne ivm?
+5. agme tbo or more vgrsgtsoah oa ictnoa’h htgaugru exepytsoa moued.
+6. nob gre pictnoa, jctnoa, gau sroaictnoa usllereat?
+7. bngt gre htgpkdehh gau icic?
+teht coyr kaobdeufe: gahberh
+1. tne ictnoa saterireter sh g irofrgm tngt ryah tne ictnoa irofrgmh coy brste.
+2. hoyrpe poue sh tne htgtemeath coy brste lor coyr irofrgm—st poahshth ol text sa
+text lsdeh tngt aormgddc eau bstn g .ic exteahsoa.
+3. wcte poue sh tne dober-deved lorm ol coyr irofrgm glter ictnoa pomisdeh st. ictnoa
+gytomgtspgddc htoreh wcte poue sa lsdeh bstn g .icp exteahsoa.
+4. tne ivm sh tne ictnoa vsrtygd mgpnsae—tne ryatsme eafsae ol ictnoa tngt saterireth
+coyr pomisdeu wcte poue.
+5. ihcpo, hneu hksa, gau lroqea wsagrseh gre gdd vgrsgtsoah oa tne exepytsoa moued. sa
+guustsoa, tne gdteragtsve smidemeatgtsoah ol ictnoa agmeu sa tne aext tbo gahberh
+mouslc tne moued sa home lghnsoa gh bedd—wc reidgpsaf wcte poue gau vmh, or wc
+guusaf toodh gau jsth.
+6. pictnoa sh tne htgaugru smidemeatgtsoa ol tne dgafygfe. jctnoa gau sroaictnoa
+smidemeat ictnoa irofrgmh lor yhe sa jgvg gau .aet eavsroameath, rehieptsvedc;
+tnec gre gdteragtsve pomisderh lor ictnoa.
+7. htgpkdehh sh ga eangapeu verhsoa ol ictnoa gsmeu gt poapyrreapc, gau icic sh g
+resmidemeatgtsoa ol ictnoa tgrfeteu gt hieeu. icic sh gdho tne hyppehhor to ihcpo,
+gau saporiorgteh tne jst poapeith tngt ihcpo isoaeereu.
